@@ -1,0 +1,8621 @@
+{
+ "birth": [
+  {
+   "id": "A",
+   "name": "A사",
+   "alias": "머리",
+   "ward": 1,
+   "p": 0.013,
+   "lifeExp": 82,
+   "avgLife": 65,
+   "safety": 9,
+   "wealth": 9,
+   "medical": 9,
+   "orgPressure": 7,
+   "fantasm": 1,
+   "pollution": 1,
+   "orphanRate": 0.018,
+   "infantMort": 0.00195,
+   "childMort": 0.0004,
+   "adultRisk": 0.00105,
+   "pRich": 0.32,
+   "pPoor": 0.1,
+   "pNormal": 0.58,
+   "tags": [
+    "wing",
+    "top"
+   ],
+   "startHealth": 67,
+   "startSanity": 72,
+   "startWealth": 81,
+   "startNetwork": 22
+  },
+  {
+   "id": "B",
+   "name": "B사",
+   "alias": "눈",
+   "ward": 2,
+   "p": 0.013,
+   "lifeExp": 81,
+   "avgLife": 67,
+   "safety": 9,
+   "wealth": 9,
+   "medical": 9,
+   "orgPressure": 7,
+   "fantasm": 2,
+   "pollution": 1,
+   "orphanRate": 0.018,
+   "infantMort": 0.00195,
+   "childMort": 0.0004,
+   "adultRisk": 0.00105,
+   "pRich": 0.32,
+   "pPoor": 0.1,
+   "pNormal": 0.58,
+   "tags": [
+    "wing",
+    "top"
+   ],
+   "startHealth": 67,
+   "startSanity": 72,
+   "startWealth": 81,
+   "startNetwork": 22
+  },
+  {
+   "id": "C",
+   "name": "C사",
+   "alias": "발톱",
+   "ward": 3,
+   "p": 0.013,
+   "lifeExp": 80,
+   "avgLife": 65,
+   "safety": 9,
+   "wealth": 8,
+   "medical": 9,
+   "orgPressure": 6,
+   "fantasm": 2,
+   "pollution": 1,
+   "orphanRate": 0.026,
+   "infantMort": 0.00195,
+   "childMort": 0.0004,
+   "adultRisk": 0.001,
+   "pRich": 0.29,
+   "pPoor": 0.15,
+   "pNormal": 0.56,
+   "tags": [
+    "wing",
+    "top"
+   ],
+   "startHealth": 67,
+   "startSanity": 72,
+   "startWealth": 72,
+   "startNetwork": 21
+  },
+  {
+   "id": "D",
+   "name": "D사",
+   "alias": "",
+   "ward": 4,
+   "p": 0.0432,
+   "lifeExp": 70,
+   "avgLife": 55,
+   "safety": 6,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 45,
+   "startNetwork": 19
+  },
+  {
+   "id": "E",
+   "name": "E사",
+   "alias": "",
+   "ward": null,
+   "p": 0.0432,
+   "lifeExp": 70,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 45,
+   "startNetwork": 19
+  },
+  {
+   "id": "F",
+   "name": "F사",
+   "alias": "",
+   "ward": 6,
+   "p": 0.0432,
+   "lifeExp": 65,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 4,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 6,
+   "orphanRate": 0.058,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "industrial"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 36,
+   "startNetwork": 19
+  },
+  {
+   "id": "G",
+   "name": "G사",
+   "alias": "",
+   "ward": 7,
+   "p": 0.0432,
+   "lifeExp": 65,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 4,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 6,
+   "orphanRate": 0.058,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "industrial"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 36,
+   "startNetwork": 19
+  },
+  {
+   "id": "H",
+   "name": "H사",
+   "alias": "홍원생명공학그룹",
+   "ward": 8,
+   "p": 0.0432,
+   "lifeExp": 74,
+   "avgLife": 57,
+   "safety": 6,
+   "wealth": 6,
+   "medical": 9,
+   "orgPressure": 5,
+   "fantasm": 4,
+   "pollution": 3,
+   "orphanRate": 0.042,
+   "infantMort": 0.00195,
+   "childMort": 0.001,
+   "adultRisk": 0.00185,
+   "pRich": 0.23,
+   "pPoor": 0.25,
+   "pNormal": 0.52,
+   "tags": [
+    "wing",
+    "medical",
+    "commercial"
+   ],
+   "startHealth": 67,
+   "startSanity": 63,
+   "startWealth": 54,
+   "startNetwork": 20
+  },
+  {
+   "id": "I",
+   "name": "I사",
+   "alias": "",
+   "ward": 9,
+   "p": 0.0432,
+   "lifeExp": 70,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 45,
+   "startNetwork": 19
+  },
+  {
+   "id": "J",
+   "name": "J사",
+   "alias": "",
+   "ward": 10,
+   "p": 0.0432,
+   "lifeExp": 60,
+   "avgLife": 55,
+   "safety": 4,
+   "wealth": 4,
+   "medical": 6,
+   "orgPressure": 7,
+   "fantasm": 3,
+   "pollution": 6,
+   "orphanRate": 0.058,
+   "infantMort": 0.0087,
+   "childMort": 0.0017,
+   "adultRisk": 0.00255,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "industrial",
+    "entertainment"
+   ],
+   "startHealth": 58,
+   "startSanity": 57,
+   "startWealth": 36,
+   "startNetwork": 22
+  },
+  {
+   "id": "K",
+   "name": "K사",
+   "alias": "",
+   "ward": 11,
+   "p": 0.0432,
+   "lifeExp": 73,
+   "avgLife": 55,
+   "safety": 6,
+   "wealth": 4,
+   "medical": 9,
+   "orgPressure": 4,
+   "fantasm": 4,
+   "pollution": 2,
+   "orphanRate": 0.058,
+   "infantMort": 0.00195,
+   "childMort": 0.001,
+   "adultRisk": 0.0018,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "medical",
+    "agriculture"
+   ],
+   "startHealth": 67,
+   "startSanity": 63,
+   "startWealth": 36,
+   "startNetwork": 19
+  },
+  {
+   "id": "M",
+   "name": "M사",
+   "alias": "MDM Entreprise",
+   "ward": 13,
+   "p": 0.0432,
+   "lifeExp": 74,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 6,
+   "medical": 9,
+   "orgPressure": 5,
+   "fantasm": 4,
+   "pollution": 3,
+   "orphanRate": 0.042,
+   "infantMort": 0.00195,
+   "childMort": 0.001,
+   "adultRisk": 0.00185,
+   "pRich": 0.23,
+   "pPoor": 0.25,
+   "pNormal": 0.52,
+   "tags": [
+    "wing",
+    "commercial",
+    "medical"
+   ],
+   "startHealth": 67,
+   "startSanity": 63,
+   "startWealth": 54,
+   "startNetwork": 20
+  },
+  {
+   "id": "N",
+   "name": "N사",
+   "alias": "나겔 운트 하머",
+   "ward": 14,
+   "p": 0.0432,
+   "lifeExp": 71,
+   "avgLife": 54,
+   "safety": 6,
+   "wealth": 6,
+   "medical": 6,
+   "orgPressure": 5,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.042,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.00185,
+   "pRich": 0.23,
+   "pPoor": 0.25,
+   "pNormal": 0.52,
+   "tags": [
+    "wing",
+    "commercial"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 54,
+   "startNetwork": 20
+  },
+  {
+   "id": "O",
+   "name": "O사",
+   "alias": "",
+   "ward": null,
+   "p": 0.0432,
+   "lifeExp": 70,
+   "avgLife": 57,
+   "safety": 6,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 45,
+   "startNetwork": 19
+  },
+  {
+   "id": "P",
+   "name": "P사",
+   "alias": "",
+   "ward": 16,
+   "p": 0.0432,
+   "lifeExp": 65,
+   "avgLife": 57,
+   "safety": 6,
+   "wealth": 4,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 6,
+   "orphanRate": 0.058,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "industrial"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 36,
+   "startNetwork": 19
+  },
+  {
+   "id": "Q",
+   "name": "Q사",
+   "alias": "",
+   "ward": 17,
+   "p": 0.0432,
+   "lifeExp": 70,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 45,
+   "startNetwork": 19
+  },
+  {
+   "id": "R",
+   "name": "R사",
+   "alias": "",
+   "ward": 18,
+   "p": 0.0432,
+   "lifeExp": 67,
+   "avgLife": 56,
+   "safety": 5,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 5,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0015,
+   "adultRisk": 0.00215,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing",
+    "military"
+   ],
+   "startHealth": 58,
+   "startSanity": 60,
+   "startWealth": 45,
+   "startNetwork": 20
+  },
+  {
+   "id": "S",
+   "name": "S사",
+   "alias": "살피뼈 농축산",
+   "ward": 19,
+   "p": 0.0432,
+   "lifeExp": 70,
+   "avgLife": 54,
+   "safety": 6,
+   "wealth": 4,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 2,
+   "orphanRate": 0.058,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "agriculture"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 36,
+   "startNetwork": 19
+  },
+  {
+   "id": "T",
+   "name": "T사",
+   "alias": "Time Track",
+   "ward": 20,
+   "p": 0.0432,
+   "lifeExp": 65,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 4,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 6,
+   "orphanRate": 0.058,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "industrial"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 36,
+   "startNetwork": 19
+  },
+  {
+   "id": "U",
+   "name": "U사",
+   "alias": "",
+   "ward": 21,
+   "p": 0.0432,
+   "lifeExp": 65,
+   "avgLife": 54,
+   "safety": 6,
+   "wealth": 4,
+   "medical": 6,
+   "orgPressure": 5,
+   "fantasm": 3,
+   "pollution": 7,
+   "orphanRate": 0.058,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.00185,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "fishery",
+    "commercial",
+    "industrial"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 36,
+   "startNetwork": 20
+  },
+  {
+   "id": "V",
+   "name": "V사",
+   "alias": "",
+   "ward": null,
+   "p": 0.0432,
+   "lifeExp": 70,
+   "avgLife": 54,
+   "safety": 6,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 45,
+   "startNetwork": 19
+  },
+  {
+   "id": "W",
+   "name": "W사",
+   "alias": "Warp Corporation",
+   "ward": 23,
+   "p": 0.0432,
+   "lifeExp": 69,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 5,
+   "fantasm": 3,
+   "pollution": 4,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.00185,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing",
+    "logistics"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 45,
+   "startNetwork": 20
+  },
+  {
+   "id": "X",
+   "name": "X사",
+   "alias": "",
+   "ward": 24,
+   "p": 0.0432,
+   "lifeExp": 65,
+   "avgLife": 56,
+   "safety": 6,
+   "wealth": 4,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 6,
+   "orphanRate": 0.058,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.17,
+   "pPoor": 0.35,
+   "pNormal": 0.48,
+   "tags": [
+    "wing",
+    "industrial"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 36,
+   "startNetwork": 19
+  },
+  {
+   "id": "Y",
+   "name": "Y사",
+   "alias": "",
+   "ward": null,
+   "p": 0.0432,
+   "lifeExp": 70,
+   "avgLife": 53,
+   "safety": 6,
+   "wealth": 5,
+   "medical": 6,
+   "orgPressure": 4,
+   "fantasm": 3,
+   "pollution": 3,
+   "orphanRate": 0.05,
+   "infantMort": 0.0087,
+   "childMort": 0.0013,
+   "adultRisk": 0.0018,
+   "pRich": 0.2,
+   "pPoor": 0.3,
+   "pNormal": 0.5,
+   "tags": [
+    "wing"
+   ],
+   "startHealth": 58,
+   "startSanity": 63,
+   "startWealth": 45,
+   "startNetwork": 19
+  },
+  {
+   "id": "outskirts",
+   "name": "외곽",
+   "alias": "",
+   "ward": null,
+   "p": 0.054,
+   "lifeExp": 45,
+   "avgLife": 36,
+   "safety": 2,
+   "wealth": 1,
+   "medical": 1,
+   "orgPressure": 4,
+   "fantasm": 8,
+   "pollution": 6,
+   "orphanRate": 0.14,
+   "infantMort": 0.06,
+   "childMort": 0.005,
+   "adultRisk": 0.0035,
+   "pRich": 0.08,
+   "pPoor": 0.5,
+   "pNormal": 0.42,
+   "tags": [
+    "outskirts"
+   ],
+   "startHealth": 43,
+   "startSanity": 51,
+   "startWealth": 9,
+   "startNetwork": 19
+  }
+ ],
+ "cloneChanceR": 0.2,
+ "bloodBirthP": 0.006,
+ "request": [
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.0127,
+   "pSuccessGivenAlive": 0.74,
+   "ok": 73,
+   "fail": 26,
+   "die": 1,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.88,
+   "ok": 88,
+   "fail": 12,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.0236,
+   "pSuccessGivenAlive": 0.62,
+   "ok": 61,
+   "fail": 37,
+   "die": 2,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 4,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.0082,
+   "pSuccessGivenAlive": 0.76,
+   "ok": 75,
+   "fail": 25,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 3,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.0593,
+   "pSuccessGivenAlive": 0.44,
+   "ok": 41,
+   "fail": 53,
+   "die": 6,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 10,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.0205,
+   "pSuccessGivenAlive": 0.58,
+   "ok": 57,
+   "fail": 41,
+   "die": 2,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 6,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.1493,
+   "pSuccessGivenAlive": 0.26,
+   "ok": 22,
+   "fail": 63,
+   "die": 15,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 17,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.0517,
+   "pSuccessGivenAlive": 0.4,
+   "ok": 38,
+   "fail": 57,
+   "die": 5,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 12,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.511,
+   "pSuccessGivenAlive": 0.12,
+   "ok": 6,
+   "fail": 43,
+   "die": 51,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 25,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.1769,
+   "pSuccessGivenAlive": 0.2,
+   "ok": 16,
+   "fail": 66,
+   "die": 18,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 17,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.92,
+   "pSuccessGivenAlive": 0.12,
+   "ok": 1,
+   "fail": 7,
+   "die": 92,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 30,
+   "meritNeed": 4
+  },
+  {
+   "grade": 9,
+   "fit": 0,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.6054,
+   "pSuccessGivenAlive": 0.2,
+   "ok": 8,
+   "fail": 31,
+   "die": 61,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 20,
+   "meritNeed": 4
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.0069,
+   "pSuccessGivenAlive": 0.86,
+   "ok": 85,
+   "fail": 15,
+   "die": 0,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.0127,
+   "pSuccessGivenAlive": 0.74,
+   "ok": 73,
+   "fail": 26,
+   "die": 1,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 3,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.88,
+   "ok": 88,
+   "fail": 12,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 2,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.0321,
+   "pSuccessGivenAlive": 0.56,
+   "ok": 54,
+   "fail": 43,
+   "die": 3,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 8,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.0111,
+   "pSuccessGivenAlive": 0.7,
+   "ok": 69,
+   "fail": 30,
+   "die": 1,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 5,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.0807,
+   "pSuccessGivenAlive": 0.38,
+   "ok": 35,
+   "fail": 57,
+   "die": 8,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 15,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.0279,
+   "pSuccessGivenAlive": 0.52,
+   "ok": 51,
+   "fail": 46,
+   "die": 3,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 10,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.2762,
+   "pSuccessGivenAlive": 0.14,
+   "ok": 10,
+   "fail": 62,
+   "die": 28,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 25,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.0956,
+   "pSuccessGivenAlive": 0.28,
+   "ok": 25,
+   "fail": 65,
+   "die": 10,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 17,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.92,
+   "pSuccessGivenAlive": 0.12,
+   "ok": 1,
+   "fail": 7,
+   "die": 92,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 30,
+   "meritNeed": 9
+  },
+  {
+   "grade": 8,
+   "fit": 1,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.3273,
+   "pSuccessGivenAlive": 0.2,
+   "ok": 13,
+   "fail": 54,
+   "die": 33,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 20,
+   "meritNeed": 9
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.0069,
+   "pSuccessGivenAlive": 0.86,
+   "ok": 85,
+   "fail": 15,
+   "die": 0,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 2,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.0173,
+   "pSuccessGivenAlive": 0.68,
+   "ok": 67,
+   "fail": 31,
+   "die": 2,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 6,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.006,
+   "pSuccessGivenAlive": 0.82,
+   "ok": 82,
+   "fail": 18,
+   "die": 0,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 4,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.0436,
+   "pSuccessGivenAlive": 0.5,
+   "ok": 48,
+   "fail": 48,
+   "die": 4,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 12,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.0151,
+   "pSuccessGivenAlive": 0.64,
+   "ok": 63,
+   "fail": 35,
+   "die": 2,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 8,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.1493,
+   "pSuccessGivenAlive": 0.26,
+   "ok": 22,
+   "fail": 63,
+   "die": 15,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 22,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.0517,
+   "pSuccessGivenAlive": 0.4,
+   "ok": 38,
+   "fail": 57,
+   "die": 5,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 15,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.511,
+   "pSuccessGivenAlive": 0.12,
+   "ok": 6,
+   "fail": 43,
+   "die": 51,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 30,
+   "meritNeed": 22
+  },
+  {
+   "grade": 7,
+   "fit": 2,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.1769,
+   "pSuccessGivenAlive": 0.2,
+   "ok": 16,
+   "fail": 66,
+   "die": 18,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 20,
+   "meritNeed": 22
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 1,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.0094,
+   "pSuccessGivenAlive": 0.8,
+   "ok": 79,
+   "fail": 21,
+   "die": 0,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 4,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.94,
+   "ok": 94,
+   "fail": 6,
+   "die": 0,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 2,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.0236,
+   "pSuccessGivenAlive": 0.62,
+   "ok": 61,
+   "fail": 37,
+   "die": 2,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 9,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.0082,
+   "pSuccessGivenAlive": 0.76,
+   "ok": 75,
+   "fail": 25,
+   "die": 0,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 6,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.0807,
+   "pSuccessGivenAlive": 0.38,
+   "ok": 35,
+   "fail": 57,
+   "die": 8,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 19,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.0279,
+   "pSuccessGivenAlive": 0.52,
+   "ok": 51,
+   "fail": 46,
+   "die": 3,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 12,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.2762,
+   "pSuccessGivenAlive": 0.14,
+   "ok": 10,
+   "fail": 62,
+   "die": 28,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 30,
+   "meritNeed": 45
+  },
+  {
+   "grade": 6,
+   "fit": 2,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.0956,
+   "pSuccessGivenAlive": 0.28,
+   "ok": 25,
+   "fail": 65,
+   "die": 10,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 20,
+   "meritNeed": 45
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 1,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.0051,
+   "pSuccessGivenAlive": 0.92,
+   "ok": 92,
+   "fail": 8,
+   "die": 0,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 2,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 2,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.0127,
+   "pSuccessGivenAlive": 0.74,
+   "ok": 73,
+   "fail": 26,
+   "die": 1,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 6,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.88,
+   "ok": 88,
+   "fail": 12,
+   "die": 0,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 4,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.0436,
+   "pSuccessGivenAlive": 0.5,
+   "ok": 48,
+   "fail": 48,
+   "die": 4,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 15,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.0151,
+   "pSuccessGivenAlive": 0.64,
+   "ok": 63,
+   "fail": 35,
+   "die": 2,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 10,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.1493,
+   "pSuccessGivenAlive": 0.26,
+   "ok": 22,
+   "fail": 63,
+   "die": 15,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 27,
+   "meritNeed": 76
+  },
+  {
+   "grade": 5,
+   "fit": 3,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.0517,
+   "pSuccessGivenAlive": 0.4,
+   "ok": 38,
+   "fail": 57,
+   "die": 5,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 18,
+   "meritNeed": 76
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 1,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 2,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 2,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.0069,
+   "pSuccessGivenAlive": 0.86,
+   "ok": 85,
+   "fail": 15,
+   "die": 0,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 4,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 2,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.0236,
+   "pSuccessGivenAlive": 0.62,
+   "ok": 61,
+   "fail": 37,
+   "die": 2,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 12,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.0082,
+   "pSuccessGivenAlive": 0.76,
+   "ok": 75,
+   "fail": 25,
+   "die": 0,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 8,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.0807,
+   "pSuccessGivenAlive": 0.38,
+   "ok": 35,
+   "fail": 57,
+   "die": 8,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 23,
+   "meritNeed": 117
+  },
+  {
+   "grade": 4,
+   "fit": 3,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.0279,
+   "pSuccessGivenAlive": 0.52,
+   "ok": 51,
+   "fail": 46,
+   "die": 3,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 15,
+   "meritNeed": 117
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 1,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 2,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 2,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 3,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 2,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.0127,
+   "pSuccessGivenAlive": 0.74,
+   "ok": 73,
+   "fail": 26,
+   "die": 1,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 8,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.88,
+   "ok": 88,
+   "fail": 12,
+   "die": 0,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 5,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.0436,
+   "pSuccessGivenAlive": 0.5,
+   "ok": 48,
+   "fail": 48,
+   "die": 4,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 18,
+   "meritNeed": 166
+  },
+  {
+   "grade": 3,
+   "fit": 4,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.0151,
+   "pSuccessGivenAlive": 0.64,
+   "ok": 63,
+   "fail": 35,
+   "die": 2,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 12,
+   "meritNeed": 166
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 1,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 2,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 2,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 3,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 2,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.0069,
+   "pSuccessGivenAlive": 0.86,
+   "ok": 85,
+   "fail": 15,
+   "die": 0,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 5,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 3,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.0236,
+   "pSuccessGivenAlive": 0.62,
+   "ok": 61,
+   "fail": 37,
+   "die": 2,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 14,
+   "meritNeed": 225
+  },
+  {
+   "grade": 2,
+   "fit": 4,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.0082,
+   "pSuccessGivenAlive": 0.76,
+   "ok": 75,
+   "fail": 25,
+   "die": 0,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 9,
+   "meritNeed": 225
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 4,
+   "repOk": 3,
+   "merit": 1,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 0,
+   "tierName": "뜬소문",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 2,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 6,
+   "repOk": 4,
+   "merit": 1,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 1,
+   "tierName": "도시 괴담",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 3,
+   "repOk": 2,
+   "merit": 1,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 10,
+   "repOk": 7,
+   "merit": 2,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 2,
+   "tierName": "도시 전설",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 5,
+   "repOk": 4,
+   "merit": 2,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 17,
+   "repOk": 10,
+   "merit": 3,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 3,
+   "tierName": "도시 질병",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 8,
+   "repOk": 6,
+   "merit": 2,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "bold",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.95,
+   "ok": 95,
+   "fail": 5,
+   "die": 0,
+   "payOk": 26,
+   "repOk": 16,
+   "merit": 4,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 4,
+   "tierName": "도시 악몽",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.97,
+   "ok": 97,
+   "fail": 3,
+   "die": 0,
+   "payOk": 12,
+   "repOk": 10,
+   "merit": 3,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "bold",
+   "pDeath": 0.0127,
+   "pSuccessGivenAlive": 0.74,
+   "ok": 73,
+   "fail": 26,
+   "die": 1,
+   "payOk": 41,
+   "repOk": 23,
+   "merit": 10,
+   "meritNeed": 292
+  },
+  {
+   "grade": 1,
+   "fit": 5,
+   "tier": 5,
+   "tierName": "도시의 별",
+   "mode": "care",
+   "pDeath": 0.005,
+   "pSuccessGivenAlive": 0.88,
+   "ok": 88,
+   "fail": 12,
+   "die": 0,
+   "payOk": 19,
+   "repOk": 14,
+   "merit": 7,
+   "meritNeed": 292
+  }
+ ],
+ "requestTierOffset": {
+  "0": 0.45,
+  "-1": 0.18,
+  "+1": 0.25,
+  "+2": 0.09,
+  "+3": 0.03,
+  "assocExtra": "협회 소속 시 35% 확률로 +1"
+ },
+ "requestFreq": "해결사 16세+: 매년 85% 확률로 의뢰 1건, 조직 소속이면 추가 45% 확률로 1건 더",
+ "requestTypes": [
+  {
+   "id": "rq_delivery",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    1
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_rats",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    1
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_debt",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_merchant",
+   "type": "호위",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_missing",
+   "type": "수색",
+   "tiers": [
+    0,
+    3
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_info",
+   "type": "단순 업무",
+   "tiers": [
+    1,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_gang",
+   "type": "조직 소탕",
+   "tiers": [
+    1,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fantasm_small",
+   "type": "환상체 토벌",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_night",
+   "type": "호위",
+   "tiers": [
+    2,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_distortion_new",
+   "type": "뒤틀림",
+   "tiers": [
+    2,
+    3
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_syndicate_base",
+   "type": "조직 소탕",
+   "tiers": [
+    2,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fantasm_hunt",
+   "type": "환상체 토벌",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fantasm_capture",
+   "type": "환상체 토벌",
+   "tiers": [
+    3,
+    5
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_distortion",
+   "type": "뒤틀림",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_exec_escort",
+   "type": "호위",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_war",
+   "type": "전쟁",
+   "tiers": [
+    3,
+    5
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_finger_branch",
+   "type": "전쟁",
+   "tiers": [
+    4,
+    5
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_sweepers",
+   "type": "환상체 토벌",
+   "tiers": [
+    4,
+    5
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_distortion_star",
+   "type": "뒤틀림",
+   "tiers": [
+    5,
+    5
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fantasm_star",
+   "type": "환상체 토벌",
+   "tiers": [
+    5,
+    5
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_impurity",
+   "type": "토벌",
+   "tiers": [
+    5,
+    5
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_lost_cat",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    1
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_guard_shop",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_collect_parts",
+   "type": "단순 업무",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_witness",
+   "type": "단순 업무",
+   "tiers": [
+    1,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_wedding",
+   "type": "호위",
+   "tiers": [
+    0,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_doctor_escort",
+   "type": "호위",
+   "tiers": [
+    2,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_search_ruins",
+   "type": "수색",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_search_heir",
+   "type": "수색",
+   "tiers": [
+    2,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_drug_lab",
+   "type": "조직 소탕",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_slavers",
+   "type": "조직 소탕",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fantasm_well",
+   "type": "환상체 토벌",
+   "tiers": [
+    1,
+    3
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fantasm_school",
+   "type": "환상체 토벌",
+   "tiers": [
+    2,
+    4
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_distortion_artist",
+   "type": "뒤틀림",
+   "tiers": [
+    2,
+    3
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_distortion_train",
+   "type": "뒤틀림",
+   "tiers": [
+    3,
+    5
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_wing_border",
+   "type": "전쟁",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_hunt_horror",
+   "type": "토벌",
+   "tiers": [
+    4,
+    5
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_moving",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    1
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_bike",
+   "type": "수색",
+   "tiers": [
+    0,
+    1
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_bar_brawler",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    1
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_stall_rent",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_site_watch",
+   "type": "호위",
+   "tiers": [
+    0,
+    1
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_letter_outskirts",
+   "type": "단순 업무",
+   "tiers": [
+    0,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_negotiate_debt",
+   "type": "단순 업무",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_pickpockets",
+   "type": "조직 소탕",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_cargo_track",
+   "type": "수색",
+   "tiers": [
+    1,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_funeral_guard",
+   "type": "호위",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fantasm_warehouse",
+   "type": "환상체 토벌",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_workshop_theft",
+   "type": "수색",
+   "tiers": [
+    2,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_auction_guard",
+   "type": "호위",
+   "tiers": [
+    2,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_hostage",
+   "type": "호위",
+   "tiers": [
+    2,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_distortion_guard",
+   "type": "뒤틀림",
+   "tiers": [
+    2,
+    3
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_courier_cut",
+   "type": "조직 소탕",
+   "tiers": [
+    2,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_escaped_subject",
+   "type": "수색",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fight_pit",
+   "type": "조직 소탕",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_fantasm_river",
+   "type": "환상체 토벌",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_defector",
+   "type": "호위",
+   "tiers": [
+    3,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_distortion_flock",
+   "type": "뒤틀림",
+   "tiers": [
+    4,
+    5
+   ],
+   "cause": "환상체 사고",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_syndicate_head",
+   "type": "전쟁",
+   "tiers": [
+    4,
+    5
+   ],
+   "cause": "범죄·항쟁",
+   "org": null,
+   "bite": false
+  },
+  {
+   "id": "rq_dev_parcel",
+   "type": "운반",
+   "tiers": [
+    0,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": "제뱌찌 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_dev_hot",
+   "type": "운반",
+   "tiers": [
+    2,
+    5
+   ],
+   "cause": "범죄·항쟁",
+   "org": "제뱌찌 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_shi_mark",
+   "type": "암살",
+   "tiers": [
+    1,
+    3
+   ],
+   "cause": "범죄·항쟁",
+   "org": "시 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_shi_high",
+   "type": "암살",
+   "tiers": [
+    3,
+    5
+   ],
+   "cause": "범죄·항쟁",
+   "org": "시 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_cinq_duel",
+   "type": "결투",
+   "tiers": [
+    1,
+    3
+   ],
+   "cause": "부상",
+   "org": "섕크 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_cinq_grand",
+   "type": "결투",
+   "tiers": [
+    3,
+    5
+   ],
+   "cause": "부상",
+   "org": "섕크 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_dev_letter",
+   "type": "운반",
+   "tiers": [
+    0,
+    1
+   ],
+   "cause": "범죄·항쟁",
+   "org": "제뱌찌 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_dev_wing",
+   "type": "운반",
+   "tiers": [
+    3,
+    5
+   ],
+   "cause": "범죄·항쟁",
+   "org": "제뱌찌 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_shi_witness",
+   "type": "암살",
+   "tiers": [
+    0,
+    2
+   ],
+   "cause": "범죄·항쟁",
+   "org": "시 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_shi_fixer",
+   "type": "암살",
+   "tiers": [
+    2,
+    4
+   ],
+   "cause": "범죄·항쟁",
+   "org": "시 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_cinq_challenge",
+   "type": "결투",
+   "tiers": [
+    0,
+    2
+   ],
+   "cause": "부상",
+   "org": "섕크 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_cinq_feud",
+   "type": "결투",
+   "tiers": [
+    2,
+    4
+   ],
+   "cause": "부상",
+   "org": "섕크 협회",
+   "bite": false
+  },
+  {
+   "id": "rq_bf_cellar",
+   "type": "혈귀 사냥",
+   "tiers": [
+    1,
+    2
+   ],
+   "cause": "부상",
+   "org": null,
+   "bite": true
+  },
+  {
+   "id": "rq_bf_nest",
+   "type": "혈귀 사냥",
+   "tiers": [
+    2,
+    4
+   ],
+   "cause": "부상",
+   "org": null,
+   "bite": true
+  },
+  {
+   "id": "rq_bf_family",
+   "type": "혈귀 사냥",
+   "tiers": [
+    3,
+    5
+   ],
+   "cause": "부상",
+   "org": null,
+   "bite": true
+  }
+ ],
+ "warp": {
+  "cars": [
+   {
+    "car": 1,
+    "E": 3,
+    "kind": "person"
+   },
+   {
+    "car": 2,
+    "E": 4.5,
+    "kind": "person"
+   },
+   {
+    "car": 3,
+    "E": 5.5,
+    "kind": "person"
+   },
+   {
+    "car": 4,
+    "E": 6,
+    "kind": "person",
+    "failMindX2": true
+   },
+   {
+    "car": 5,
+    "E": 7,
+    "kind": "thing",
+    "jit": 2
+   },
+   {
+    "car": 6,
+    "E": 7.5,
+    "kind": "person"
+   },
+   {
+    "car": 7,
+    "E": 8.5,
+    "kind": "thing",
+    "mindHalf": true
+   },
+   {
+    "car": 8,
+    "E": 11.5,
+    "kind": "person",
+    "noRed": true
+   }
+  ],
+  "cpFormula": "해결사: 10-등급 / 손가락: 계급별 [3,5,8,10] 또는 [3,6,9] / 흑수 5~8.5 / T사 징수직 2~9.5 / W사 2~9 / R사 4무리 5~9; 특색+1, E.G.O+2, 유물+1, 혈귀+1, 강화시술·전투의체·고급장비 각+0.5, 좋은의체+0.25, 65세+ -2(55세+ -1), 건강<30 -1",
+  "result": "x = cp + 보너스 - (E - 누적실패 - 연결보정 ± 지터). x≥1 대승(체력-3), x≥0 승(-8), x≥-1.5 버팀(-15, 정신-6), 그 아래 패배(-25, 정신-8). 체력/정신 0이면 하차",
+  "enterChance": "25세부터 매년 0.005+(나이-25)*0.006, 50세+ 100% (한 번만)",
+  "autoPolicy": "게임 자동모드는 열차 제안 80% 수락"
+ },
+ "M": 12000,
+ "occ": [
+  {
+   "id": "request",
+   "pLife": 0.5294,
+   "perLife": 11.899,
+   "chosen": {
+    "0": 69751,
+    "1": 73030,
+    "2": 5
+   }
+  },
+  {
+   "id": "warp:fight",
+   "pLife": 0.3511,
+   "perLife": 2.385,
+   "chosen": {
+    "0": 17492,
+    "1": 11124
+   }
+  },
+  {
+   "id": "warp:rest",
+   "pLife": 0.3498,
+   "perLife": 1.943,
+   "chosen": {
+    "0": 3450,
+    "1": 2110,
+    "2": 17753
+   }
+  },
+  {
+   "id": "x_care_young",
+   "pLife": 0.8934,
+   "perLife": 1.587,
+   "chosen": {
+    "0": 2859,
+    "1": 2240,
+    "2": 1821,
+    "3": 2823,
+    "4": 2527,
+    "5": 2921,
+    "ignore": 3852
+   }
+  },
+  {
+   "id": "x_care_mid",
+   "pLife": 0.619,
+   "perLife": 1.427,
+   "chosen": {
+    "0": 2456,
+    "1": 2156,
+    "2": 1959,
+    "3": 2419,
+    "4": 2240,
+    "5": 2472,
+    "ignore": 3419
+   }
+  },
+  {
+   "id": "j_fixer_promotion",
+   "pLife": 0.3954,
+   "perLife": 1.03,
+   "chosen": {
+    "0": 6162,
+    "1": 6195
+   }
+  },
+  {
+   "id": "c_fever",
+   "pLife": 0.9173,
+   "perLife": 0.917,
+   "chosen": {
+    "0": 4195,
+    "1": 4657,
+    "ignore": 2156
+   }
+  },
+  {
+   "id": "x_debt_clear",
+   "pLife": 0.3053,
+   "perLife": 0.87,
+   "chosen": {
+    "0": 4194,
+    "1": 4183,
+    "ignore": 2059
+   }
+  },
+  {
+   "id": "q_fixer_duel",
+   "pLife": 0.7249,
+   "perLife": 0.725,
+   "chosen": {
+    "0": 3503,
+    "1": 3486,
+    "ignore": 1710
+   }
+  },
+  {
+   "id": "a_wallet",
+   "pLife": 0.7152,
+   "perLife": 0.715,
+   "chosen": {
+    "0": 3417,
+    "1": 3463,
+    "ignore": 1702
+   }
+  },
+  {
+   "id": "c_thumb_parade",
+   "pLife": 0.6798,
+   "perLife": 0.68,
+   "chosen": {
+    "0": 3294,
+    "1": 3323,
+    "ignore": 1541
+   }
+  },
+  {
+   "id": "t_school_end",
+   "pLife": 0.6248,
+   "perLife": 0.625,
+   "chosen": {
+    "0": 3768,
+    "1": 3729
+   }
+  },
+  {
+   "id": "c_index_target",
+   "pLife": 0.618,
+   "perLife": 0.618,
+   "chosen": {
+    "0": 3710,
+    "1": 3706
+   }
+  },
+  {
+   "id": "dd_obsession",
+   "pLife": 0.606,
+   "perLife": 0.606,
+   "chosen": {
+    "0": 2902,
+    "1": 2917,
+    "ignore": 1453
+   }
+  },
+  {
+   "id": "og_office_offer",
+   "pLife": 0.3914,
+   "perLife": 0.6,
+   "chosen": {
+    "0": 3681,
+    "1": 3519
+   }
+  },
+  {
+   "id": "x_workshop",
+   "pLife": 0.346,
+   "perLife": 0.593,
+   "chosen": {
+    "0": 2735,
+    "1": 2950,
+    "ignore": 1432
+   }
+  },
+  {
+   "id": "a_career_wing",
+   "pLife": 0.5809,
+   "perLife": 0.581,
+   "chosen": {
+    "0": 1371,
+    "1": 1025,
+    "2": 2930,
+    "3": 1538,
+    "4": 107
+   }
+  },
+  {
+   "id": "f_finger_clash",
+   "pLife": 0.1852,
+   "perLife": 0.578,
+   "chosen": {
+    "0": 3464,
+    "1": 3476
+   }
+  },
+  {
+   "id": "a_neighbor_wedding",
+   "pLife": 0.5742,
+   "perLife": 0.574,
+   "chosen": {
+    "0": 2831,
+    "1": 2741,
+    "ignore": 1318
+   }
+  },
+  {
+   "id": "x_care_old",
+   "pLife": 0.2492,
+   "perLife": 0.57,
+   "chosen": {
+    "0": 1081,
+    "1": 783,
+    "2": 674,
+    "3": 1024,
+    "4": 817,
+    "5": 1041,
+    "ignore": 1416
+   }
+  },
+  {
+   "id": "c_fixer_sighting",
+   "pLife": 0.5689,
+   "perLife": 0.569,
+   "chosen": {
+    "0": 2751,
+    "1": 2730,
+    "ignore": 1346
+   }
+  },
+  {
+   "id": "c_ring_model",
+   "pLife": 0.5619,
+   "perLife": 0.562,
+   "chosen": {
+    "0": 3436,
+    "1": 3307
+   }
+  },
+  {
+   "id": "q_night_backstreet",
+   "pLife": 0.5609,
+   "perLife": 0.561,
+   "chosen": {
+    "0": 2127,
+    "1": 2092,
+    "2": 1506,
+    "3": 1006
+   }
+  },
+  {
+   "id": "c_middle_bump",
+   "pLife": 0.5534,
+   "perLife": 0.553,
+   "chosen": {
+    "0": 2182,
+    "1": 2225,
+    "2": 2234
+   }
+  },
+  {
+   "id": "c_wing_badge",
+   "pLife": 0.5501,
+   "perLife": 0.55,
+   "chosen": {
+    "0": 2672,
+    "1": 2601,
+    "ignore": 1328
+   }
+  },
+  {
+   "id": "q_family_missing",
+   "pLife": 0.5483,
+   "perLife": 0.548,
+   "chosen": {
+    "0": 2582,
+    "1": 2824,
+    "2": 1174
+   }
+  },
+  {
+   "id": "ff_cult",
+   "pLife": 0.5262,
+   "perLife": 0.526,
+   "chosen": {
+    "0": 2127,
+    "1": 2071,
+    "2": 2117
+   }
+  },
+  {
+   "id": "c_toy_sword",
+   "pLife": 0.5156,
+   "perLife": 0.516,
+   "chosen": {
+    "0": 1692,
+    "1": 1669,
+    "2": 1634,
+    "ignore": 1192
+   }
+  },
+  {
+   "id": "a_rent_hike",
+   "pLife": 0.5123,
+   "perLife": 0.512,
+   "chosen": {
+    "0": 2426,
+    "1": 2509,
+    "ignore": 1213
+   }
+  },
+  {
+   "id": "a_distortion_sign",
+   "pLife": 0.5099,
+   "perLife": 0.51,
+   "chosen": {
+    "0": 1971,
+    "1": 1992,
+    "2": 2100,
+    "3": 56
+   }
+  },
+  {
+   "id": "a_old_friend",
+   "pLife": 0.5037,
+   "perLife": 0.504,
+   "chosen": {
+    "0": 2453,
+    "1": 2398,
+    "ignore": 1193
+   }
+  },
+  {
+   "id": "a_debt",
+   "pLife": 0.489,
+   "perLife": 0.489,
+   "chosen": {
+    "0": 1860,
+    "1": 899,
+    "2": 1907,
+    "ignore": 1202
+   }
+  },
+  {
+   "id": "a_illness",
+   "pLife": 0.4695,
+   "perLife": 0.469,
+   "chosen": {
+    "0": 2136,
+    "1": 2377,
+    "ignore": 1121
+   }
+  },
+  {
+   "id": "q_office_errand",
+   "pLife": 0.4427,
+   "perLife": 0.443,
+   "chosen": {
+    "0": 2142,
+    "1": 2103,
+    "ignore": 1067
+   }
+  },
+  {
+   "id": "x_kid_letter",
+   "pLife": 0.3097,
+   "perLife": 0.442,
+   "chosen": {
+    "0": 2123,
+    "1": 2098,
+    "ignore": 1082
+   }
+  },
+  {
+   "id": "x_quiet_month",
+   "pLife": 0.2968,
+   "perLife": 0.437,
+   "chosen": {
+    "0": 2022,
+    "1": 2125,
+    "ignore": 1100
+   }
+  },
+  {
+   "id": "c_rain_eaves",
+   "pLife": 0.4243,
+   "perLife": 0.424,
+   "chosen": {
+    "0": 2033,
+    "1": 2017,
+    "ignore": 1041
+   }
+  },
+  {
+   "id": "c_red_coats",
+   "pLife": 0.4239,
+   "perLife": 0.424,
+   "chosen": {
+    "0": 1977,
+    "1": 2037,
+    "ignore": 1073
+   }
+  },
+  {
+   "id": "c_lost_cat",
+   "pLife": 0.4031,
+   "perLife": 0.403,
+   "chosen": {
+    "0": 1940,
+    "1": 1921,
+    "ignore": 976
+   }
+  },
+  {
+   "id": "j_fixer_rival",
+   "pLife": 0.2705,
+   "perLife": 0.402,
+   "chosen": {
+    "0": 1951,
+    "1": 1890,
+    "ignore": 984
+   }
+  },
+  {
+   "id": "c_birthday_cake",
+   "pLife": 0.398,
+   "perLife": 0.398,
+   "chosen": {
+    "0": 1242,
+    "1": 1262,
+    "2": 1295,
+    "ignore": 977
+   }
+  },
+  {
+   "id": "c_wing_exam",
+   "pLife": 0.3952,
+   "perLife": 0.395,
+   "chosen": {
+    "0": 1868,
+    "1": 1907,
+    "ignore": 967
+   }
+  },
+  {
+   "id": "q_bounty_board",
+   "pLife": 0.2903,
+   "perLife": 0.39,
+   "chosen": {
+    "0": 1575,
+    "1": 1520,
+    "2": 1588
+   }
+  },
+  {
+   "id": "c_dream_essay",
+   "pLife": 0.3796,
+   "perLife": 0.38,
+   "chosen": {
+    "0": 914,
+    "1": 898,
+    "2": 898,
+    "3": 953,
+    "ignore": 892
+   }
+  },
+  {
+   "id": "x_client_trap",
+   "pLife": 0.2747,
+   "perLife": 0.378,
+   "chosen": {
+    "0": 1972,
+    "1": 1931,
+    "2": 629
+   }
+  },
+  {
+   "id": "c_gallery_window",
+   "pLife": 0.3643,
+   "perLife": 0.364,
+   "chosen": {
+    "0": 1737,
+    "1": 1775,
+    "ignore": 860
+   }
+  },
+  {
+   "id": "x_haggle",
+   "pLife": 0.274,
+   "perLife": 0.36,
+   "chosen": {
+    "0": 1743,
+    "1": 1711,
+    "ignore": 871
+   }
+  },
+  {
+   "id": "c_middle_brothers",
+   "pLife": 0.3601,
+   "perLife": 0.36,
+   "chosen": {
+    "0": 1714,
+    "1": 1690,
+    "ignore": 917
+   }
+  },
+  {
+   "id": "c_prescript_game",
+   "pLife": 0.3583,
+   "perLife": 0.358,
+   "chosen": {
+    "0": 1711,
+    "1": 1717,
+    "ignore": 872
+   }
+  },
+  {
+   "id": "x_info_broker",
+   "pLife": 0.2542,
+   "perLife": 0.358,
+   "chosen": {
+    "0": 2129,
+    "1": 2173
+   }
+  },
+  {
+   "id": "a_find_work",
+   "pLife": 0.3003,
+   "perLife": 0.353,
+   "chosen": {
+    "0": 1046,
+    "1": 1115,
+    "2": 1032,
+    "3": 1045
+   }
+  },
+  {
+   "id": "warp:down",
+   "pLife": 0.3475,
+   "perLife": 0.347,
+   "chosen": {
+    "0": 4170
+   }
+  },
+  {
+   "id": "x_partner_death",
+   "pLife": 0.2698,
+   "perLife": 0.34,
+   "chosen": {
+    "0": 1411,
+    "1": 1308,
+    "2": 1361
+   }
+  },
+  {
+   "id": "wc_checkpoint",
+   "pLife": 0.1764,
+   "perLife": 0.338,
+   "chosen": {
+    "0": 1629,
+    "1": 1598,
+    "ignore": 832
+   }
+  },
+  {
+   "id": "c_assoc_desk",
+   "pLife": 0.3367,
+   "perLife": 0.337,
+   "chosen": {
+    "0": 1617,
+    "1": 1601,
+    "ignore": 823
+   }
+  },
+  {
+   "id": "c_parent_work",
+   "pLife": 0.3361,
+   "perLife": 0.336,
+   "chosen": {
+    "0": 1594,
+    "1": 1651,
+    "ignore": 788
+   }
+  },
+  {
+   "id": "wc_dinner",
+   "pLife": 0.1727,
+   "perLife": 0.324,
+   "chosen": {
+    "0": 1553,
+    "1": 1542,
+    "ignore": 792
+   }
+  },
+  {
+   "id": "wt_enter_fixer",
+   "pLife": 0.3129,
+   "perLife": 0.313,
+   "chosen": {
+    "0": 2990,
+    "1": 765
+   }
+  },
+  {
+   "id": "bf_feed_dry",
+   "pLife": 0.0167,
+   "perLife": 0.308,
+   "chosen": {
+    "0": 282,
+    "1": 972,
+    "2": 910,
+    "3": 1026,
+    "ignore": 503
+   }
+  },
+  {
+   "id": "bf_feed_calm",
+   "pLife": 0.0169,
+   "perLife": 0.302,
+   "chosen": {
+    "0": 78,
+    "1": 223,
+    "2": 1391,
+    "3": 666,
+    "ignore": 1272
+   }
+  },
+  {
+   "id": "og_assoc_offer",
+   "pLife": 0.2098,
+   "perLife": 0.301,
+   "chosen": {
+    "0": 1807,
+    "1": 1808
+   }
+  },
+  {
+   "id": "x_junior",
+   "pLife": 0.2082,
+   "perLife": 0.294,
+   "chosen": {
+    "0": 1439,
+    "1": 1390,
+    "ignore": 695
+   }
+  },
+  {
+   "id": "t_fixer_apprentice",
+   "pLife": 0.2893,
+   "perLife": 0.289,
+   "chosen": {
+    "0": 1757,
+    "1": 1715
+   }
+  },
+  {
+   "id": "c_nest_tour",
+   "pLife": 0.2775,
+   "perLife": 0.278,
+   "chosen": {
+    "0": 1316,
+    "1": 1374,
+    "ignore": 640
+   }
+  },
+  {
+   "id": "wc_vacation",
+   "pLife": 0.1588,
+   "perLife": 0.274,
+   "chosen": {
+    "0": 1337,
+    "1": 1277,
+    "ignore": 673
+   }
+  },
+  {
+   "id": "c_demolition",
+   "pLife": 0.2603,
+   "perLife": 0.26,
+   "chosen": {
+    "0": 1531,
+    "1": 1593
+   }
+  },
+  {
+   "id": "dd_neighbor",
+   "pLife": 0.214,
+   "perLife": 0.255,
+   "chosen": {
+    "0": 905,
+    "1": 730,
+    "2": 889,
+    "3": 530
+   }
+  },
+  {
+   "id": "wc_new_boss",
+   "pLife": 0.1554,
+   "perLife": 0.252,
+   "chosen": {
+    "0": 1174,
+    "1": 1270,
+    "ignore": 583
+   }
+  },
+  {
+   "id": "wc_trip",
+   "pLife": 0.1517,
+   "perLife": 0.246,
+   "chosen": {
+    "0": 1176,
+    "1": 1192,
+    "ignore": 586
+   }
+  },
+  {
+   "id": "a_border_crossing",
+   "pLife": 0.2327,
+   "perLife": 0.233,
+   "chosen": {
+    "0": 1396,
+    "1": 1396
+   }
+  },
+  {
+   "id": "wc_rumor_layoff",
+   "pLife": 0.1466,
+   "perLife": 0.233,
+   "chosen": {
+    "0": 1086,
+    "1": 1148,
+    "ignore": 563
+   }
+  },
+  {
+   "id": "x_burglary",
+   "pLife": 0.1837,
+   "perLife": 0.229,
+   "chosen": {
+    "0": 1086,
+    "1": 878,
+    "2": 213,
+    "ignore": 571
+   }
+  },
+  {
+   "id": "j_fixer_promotion_high",
+   "pLife": 0.1288,
+   "perLife": 0.226,
+   "chosen": {
+    "0": 1328,
+    "1": 1379
+   }
+  },
+  {
+   "id": "o_will",
+   "pLife": 0.216,
+   "perLife": 0.216,
+   "chosen": {
+    "0": 879,
+    "1": 854,
+    "2": 859
+   }
+  },
+  {
+   "id": "j_corp_promotion",
+   "pLife": 0.1417,
+   "perLife": 0.215,
+   "chosen": {
+    "0": 875,
+    "1": 831,
+    "2": 879
+   }
+  },
+  {
+   "id": "c_old_photo",
+   "pLife": 0.2137,
+   "perLife": 0.214,
+   "chosen": {
+    "0": 1007,
+    "1": 1011,
+    "ignore": 546
+   }
+  },
+  {
+   "id": "wc_singularity_drill",
+   "pLife": 0.1412,
+   "perLife": 0.214,
+   "chosen": {
+    "0": 1251,
+    "1": 1323
+   }
+  },
+  {
+   "id": "wc_fixer_hire",
+   "pLife": 0.1396,
+   "perLife": 0.211,
+   "chosen": {
+    "0": 845,
+    "1": 842,
+    "2": 845
+   }
+  },
+  {
+   "id": "mi_collect",
+   "pLife": 0.0474,
+   "perLife": 0.209,
+   "chosen": {
+    "0": 1013,
+    "1": 994,
+    "ignore": 499
+   }
+  },
+  {
+   "id": "f_finger_meeting",
+   "pLife": 0.1249,
+   "perLife": 0.206,
+   "chosen": {
+    "0": 1233,
+    "1": 1244
+   }
+  },
+  {
+   "id": "j_assoc_complaint",
+   "pLife": 0.0707,
+   "perLife": 0.2,
+   "chosen": {
+    "0": 946,
+    "1": 976,
+    "ignore": 478
+   }
+  },
+  {
+   "id": "o_last_wish",
+   "pLife": 0.2,
+   "perLife": 0.2,
+   "chosen": {
+    "0": 1183,
+    "1": 1217
+   }
+  },
+  {
+   "id": "wc_report_fix",
+   "pLife": 0.1352,
+   "perLife": 0.196,
+   "chosen": {
+    "0": 1159,
+    "1": 1187
+   }
+  },
+  {
+   "id": "f_finger_leave",
+   "pLife": 0.1303,
+   "perLife": 0.195,
+   "chosen": {
+    "0": 1200,
+    "1": 1138
+   }
+  },
+  {
+   "id": "a_marriage",
+   "pLife": 0.1938,
+   "perLife": 0.194,
+   "chosen": {
+    "0": 1217,
+    "1": 1109
+   }
+  },
+  {
+   "id": "th_table",
+   "pLife": 0.0469,
+   "perLife": 0.185,
+   "chosen": {
+    "0": 903,
+    "1": 898,
+    "ignore": 425
+   }
+  },
+  {
+   "id": "a_factory_accident",
+   "pLife": 0.0949,
+   "perLife": 0.182,
+   "chosen": {
+    "0": 875,
+    "1": 867,
+    "ignore": 448
+   }
+  },
+  {
+   "id": "wc_newbie",
+   "pLife": 0.1323,
+   "perLife": 0.182,
+   "chosen": {
+    "0": 867,
+    "1": 896,
+    "ignore": 425
+   }
+  },
+  {
+   "id": "j_assoc_exam_proctor",
+   "pLife": 0.0675,
+   "perLife": 0.174,
+   "chosen": {
+    "0": 1053,
+    "1": 1037
+   }
+  },
+  {
+   "id": "j_corp_restructure",
+   "pLife": 0.1338,
+   "perLife": 0.172,
+   "chosen": {
+    "0": 1073,
+    "1": 986
+   }
+  },
+  {
+   "id": "j_assoc_joint",
+   "pLife": 0.0653,
+   "perLife": 0.167,
+   "chosen": {
+    "0": 770,
+    "1": 821,
+    "ignore": 407
+   }
+  },
+  {
+   "id": "ri_auction",
+   "pLife": 0.0409,
+   "perLife": 0.164,
+   "chosen": {
+    "0": 800,
+    "1": 800,
+    "ignore": 365
+   }
+  },
+  {
+   "id": "x_ego_edge",
+   "pLife": 0.103,
+   "perLife": 0.161,
+   "chosen": {
+    "0": 957,
+    "1": 979
+   }
+  },
+  {
+   "id": "wc_taboo_colleague",
+   "pLife": 0.1207,
+   "perLife": 0.16,
+   "chosen": {
+    "0": 615,
+    "1": 671,
+    "2": 631
+   }
+  },
+  {
+   "id": "og_office_life",
+   "pLife": 0.1192,
+   "perLife": 0.155,
+   "chosen": {
+    "0": 727,
+    "1": 750,
+    "ignore": 384
+   }
+  },
+  {
+   "id": "j_assoc_mission",
+   "pLife": 0.0651,
+   "perLife": 0.153,
+   "chosen": {
+    "0": 909,
+    "1": 924
+   }
+  },
+  {
+   "id": "x_inquisition",
+   "pLife": 0.1256,
+   "perLife": 0.152,
+   "chosen": {
+    "0": 639,
+    "1": 679,
+    "2": 119,
+    "ignore": 385
+   }
+  },
+  {
+   "id": "j_drifter_soup",
+   "pLife": 0.1296,
+   "perLife": 0.147,
+   "chosen": {
+    "0": 691,
+    "1": 717,
+    "ignore": 360
+   }
+  },
+  {
+   "id": "dd_distortion_rampage",
+   "pLife": 0.1315,
+   "perLife": 0.144,
+   "chosen": {
+    "0": 568,
+    "1": 551,
+    "2": 610
+   }
+  },
+  {
+   "id": "mi_noodle",
+   "pLife": 0.0447,
+   "perLife": 0.142,
+   "chosen": {
+    "0": 669,
+    "1": 677,
+    "ignore": 354
+   }
+  },
+  {
+   "id": "ri_critique",
+   "pLife": 0.0498,
+   "perLife": 0.14,
+   "chosen": {
+    "0": 688,
+    "1": 674,
+    "ignore": 318
+   }
+  },
+  {
+   "id": "j_fixer_retire",
+   "pLife": 0.1384,
+   "perLife": 0.139,
+   "chosen": {
+    "0": 872,
+    "1": 801
+   }
+  },
+  {
+   "id": "wc_late_career",
+   "pLife": 0.1197,
+   "perLife": 0.138,
+   "chosen": {
+    "0": 858,
+    "1": 802
+   }
+  },
+  {
+   "id": "j_assoc_color_minutes",
+   "pLife": 0.0682,
+   "perLife": 0.132,
+   "chosen": {
+    "0": 645,
+    "1": 622,
+    "ignore": 311
+   }
+  },
+  {
+   "id": "q_fixer_rescue",
+   "pLife": 0.1291,
+   "perLife": 0.129,
+   "chosen": {
+    "0": 762,
+    "1": 787
+   }
+  },
+  {
+   "id": "t_scholarship",
+   "pLife": 0.1266,
+   "perLife": 0.127,
+   "chosen": {
+    "0": 750,
+    "1": 769
+   }
+  },
+  {
+   "id": "j_drifter_scrap",
+   "pLife": 0.1185,
+   "perLife": 0.122,
+   "chosen": {
+    "0": 602,
+    "1": 562,
+    "ignore": 301
+   }
+  },
+  {
+   "id": "t_wing_intern",
+   "pLife": 0.1208,
+   "perLife": 0.121,
+   "chosen": {
+    "0": 572,
+    "1": 602,
+    "ignore": 276
+   }
+  },
+  {
+   "id": "bf_feed_hungry",
+   "pLife": 0.014,
+   "perLife": 0.121,
+   "chosen": {
+    "0": 116,
+    "1": 142,
+    "2": 395,
+    "3": 747,
+    "ignore": 56
+   }
+  },
+  {
+   "id": "in_bread",
+   "pLife": 0.0467,
+   "perLife": 0.119,
+   "chosen": {
+    "0": 597,
+    "1": 526,
+    "ignore": 300
+   }
+  },
+  {
+   "id": "in_wave",
+   "pLife": 0.0469,
+   "perLife": 0.116,
+   "chosen": {
+    "0": 560,
+    "1": 553,
+    "ignore": 277
+   }
+  },
+  {
+   "id": "wc_nest_house",
+   "pLife": 0.1056,
+   "perLife": 0.113,
+   "chosen": {
+    "0": 682,
+    "1": 679
+   }
+  },
+  {
+   "id": "c_border_wall",
+   "pLife": 0.1101,
+   "perLife": 0.11,
+   "chosen": {
+    "0": 560,
+    "1": 534,
+    "ignore": 227
+   }
+  },
+  {
+   "id": "wt_enter_finger",
+   "pLife": 0.1074,
+   "perLife": 0.107,
+   "chosen": {
+    "0": 1018,
+    "1": 271
+   }
+  },
+  {
+   "id": "j_assoc_politics",
+   "pLife": 0.0576,
+   "perLife": 0.107,
+   "chosen": {
+    "0": 632,
+    "1": 650
+   }
+  },
+  {
+   "id": "og_office_scout",
+   "pLife": 0.0868,
+   "perLife": 0.107,
+   "chosen": {
+    "0": 601,
+    "1": 686
+   }
+  },
+  {
+   "id": "mi_ledger",
+   "pLife": 0.0418,
+   "perLife": 0.106,
+   "chosen": {
+    "0": 637,
+    "1": 641
+   }
+  },
+  {
+   "id": "a_child_born",
+   "pLife": 0.1027,
+   "perLife": 0.103,
+   "chosen": {
+    "0": 644,
+    "1": 589
+   }
+  },
+  {
+   "id": "og_leave",
+   "pLife": 0.091,
+   "perLife": 0.102,
+   "chosen": {
+    "0": 599,
+    "1": 624
+   }
+  },
+  {
+   "id": "ri_maestro_lecture",
+   "pLife": 0.0246,
+   "perLife": 0.1,
+   "chosen": {
+    "0": 469,
+    "1": 472,
+    "ignore": 259
+   }
+  },
+  {
+   "id": "th_tribute",
+   "pLife": 0.0418,
+   "perLife": 0.099,
+   "chosen": {
+    "0": 407,
+    "1": 340,
+    "2": 445
+   }
+  },
+  {
+   "id": "mi_little_brother",
+   "pLife": 0.0316,
+   "perLife": 0.099,
+   "chosen": {
+    "0": 460,
+    "1": 520,
+    "ignore": 208
+   }
+  },
+  {
+   "id": "th_speak",
+   "pLife": 0.0428,
+   "perLife": 0.096,
+   "chosen": {
+    "0": 560,
+    "1": 590
+   }
+  },
+  {
+   "id": "ff_cult_after",
+   "pLife": 0.0954,
+   "perLife": 0.095,
+   "chosen": {
+    "0": 405,
+    "1": 354,
+    "2": 386
+   }
+  },
+  {
+   "id": "th_drill",
+   "pLife": 0.0367,
+   "perLife": 0.093,
+   "chosen": {
+    "0": 444,
+    "1": 468,
+    "ignore": 208
+   }
+  },
+  {
+   "id": "mi_brawl",
+   "pLife": 0.0387,
+   "perLife": 0.091,
+   "chosen": {
+    "0": 566,
+    "1": 531
+   }
+  },
+  {
+   "id": "ri_gallery_owner",
+   "pLife": 0.0229,
+   "perLife": 0.089,
+   "chosen": {
+    "0": 365,
+    "1": 365,
+    "2": 337
+   }
+  },
+  {
+   "id": "ri_maestro_rival",
+   "pLife": 0.0235,
+   "perLife": 0.088,
+   "chosen": {
+    "0": 358,
+    "1": 346,
+    "2": 350
+   }
+  },
+  {
+   "id": "th_bullet",
+   "pLife": 0.0403,
+   "perLife": 0.087,
+   "chosen": {
+    "0": 531,
+    "1": 517
+   }
+  },
+  {
+   "id": "mi_promotion",
+   "pLife": 0.0346,
+   "perLife": 0.086,
+   "chosen": {
+    "0": 506,
+    "1": 527
+   }
+  },
+  {
+   "id": "t_drug_offer",
+   "pLife": 0.0836,
+   "perLife": 0.084,
+   "chosen": {
+    "0": 403,
+    "1": 397,
+    "ignore": 203
+   }
+  },
+  {
+   "id": "ff_odd_object",
+   "pLife": 0.0827,
+   "perLife": 0.083,
+   "chosen": {
+    "0": 312,
+    "1": 318,
+    "2": 362
+   }
+  },
+  {
+   "id": "ri_maestro_commission",
+   "pLife": 0.0218,
+   "perLife": 0.081,
+   "chosen": {
+    "0": 490,
+    "1": 487
+   }
+  },
+  {
+   "id": "ri_docent",
+   "pLife": 0.0347,
+   "perLife": 0.078,
+   "chosen": {
+    "0": 380,
+    "1": 362,
+    "ignore": 198
+   }
+  },
+  {
+   "id": "tc_promote",
+   "pLife": 0.0053,
+   "perLife": 0.077,
+   "chosen": {
+    "0": 748,
+    "ignore": 182
+   }
+  },
+  {
+   "id": "th_doubt",
+   "pLife": 0.0323,
+   "perLife": 0.073,
+   "chosen": {
+    "0": 458,
+    "1": 419
+   }
+  },
+  {
+   "id": "x_client_deference",
+   "pLife": 0.0536,
+   "perLife": 0.072,
+   "chosen": {
+    "0": 238,
+    "1": 225,
+    "2": 228,
+    "ignore": 177
+   }
+  },
+  {
+   "id": "mi_debt_forgive",
+   "pLife": 0.0366,
+   "perLife": 0.072,
+   "chosen": {
+    "0": 431,
+    "1": 432
+   }
+  },
+  {
+   "id": "ri_fauvism",
+   "pLife": 0.0398,
+   "perLife": 0.072,
+   "chosen": {
+    "0": 442,
+    "1": 421
+   }
+  },
+  {
+   "id": "dd_edge",
+   "pLife": 0.0537,
+   "perLife": 0.071,
+   "chosen": {
+    "0": 211,
+    "1": 191,
+    "2": 216,
+    "3": 198,
+    "4": 33
+   }
+  },
+  {
+   "id": "mi_deserter",
+   "pLife": 0.0283,
+   "perLife": 0.07,
+   "chosen": {
+    "0": 390,
+    "1": 448
+   }
+  },
+  {
+   "id": "in_witness",
+   "pLife": 0.0392,
+   "perLife": 0.068,
+   "chosen": {
+    "0": 413,
+    "1": 407
+   }
+  },
+  {
+   "id": "ri_pointillism",
+   "pLife": 0.0382,
+   "perLife": 0.066,
+   "chosen": {
+    "0": 394,
+    "1": 397
+   }
+  },
+  {
+   "id": "a_hospital_trial",
+   "pLife": 0.0601,
+   "perLife": 0.06,
+   "chosen": {
+    "0": 350,
+    "1": 371
+   }
+  },
+  {
+   "id": "in_misjudged",
+   "pLife": 0.0407,
+   "perLife": 0.059,
+   "chosen": {
+    "0": 345,
+    "1": 367
+   }
+  },
+  {
+   "id": "in_three_breaks",
+   "pLife": 0.0298,
+   "perLife": 0.059,
+   "chosen": {
+    "0": 234,
+    "1": 233,
+    "2": 238
+   }
+  },
+  {
+   "id": "in_hair",
+   "pLife": 0.0352,
+   "perLife": 0.058,
+   "chosen": {
+    "0": 281,
+    "1": 285,
+    "ignore": 133
+   }
+  },
+  {
+   "id": "mi_deferred",
+   "pLife": 0.0453,
+   "perLife": 0.058,
+   "chosen": {
+    "0": 340,
+    "1": 354
+   }
+  },
+  {
+   "id": "in_shoe",
+   "pLife": 0.0354,
+   "perLife": 0.057,
+   "chosen": {
+    "0": 269,
+    "1": 280,
+    "ignore": 137
+   }
+  },
+  {
+   "id": "ri_corridor",
+   "pLife": 0.0351,
+   "perLife": 0.057,
+   "chosen": {
+    "0": 331,
+    "1": 354
+   }
+  },
+  {
+   "id": "in_needles",
+   "pLife": 0.0288,
+   "perLife": 0.056,
+   "chosen": {
+    "0": 340,
+    "1": 336
+   }
+  },
+  {
+   "id": "c_orphan",
+   "pLife": 0.0549,
+   "perLife": 0.055,
+   "chosen": {
+    "0": 221,
+    "1": 219,
+    "2": 219
+   }
+  },
+  {
+   "id": "in_punish",
+   "pLife": 0.0284,
+   "perLife": 0.055,
+   "chosen": {
+    "0": 339,
+    "1": 318
+   }
+  },
+  {
+   "id": "og_assoc_section",
+   "pLife": 0.0442,
+   "perLife": 0.054,
+   "chosen": {
+    "0": 274,
+    "1": 256,
+    "ignore": 124
+   }
+  },
+  {
+   "id": "ri_research",
+   "pLife": 0.0352,
+   "perLife": 0.054,
+   "chosen": {
+    "0": 351,
+    "1": 303
+   }
+  },
+  {
+   "id": "t_assoc_runner",
+   "pLife": 0.0534,
+   "perLife": 0.053,
+   "chosen": {
+    "0": 241,
+    "1": 259,
+    "ignore": 141
+   }
+  },
+  {
+   "id": "ri_submit",
+   "pLife": 0.0315,
+   "perLife": 0.053,
+   "chosen": {
+    "0": 329,
+    "1": 308
+   }
+  },
+  {
+   "id": "in_proxy",
+   "pLife": 0.0329,
+   "perLife": 0.051,
+   "chosen": {
+    "0": 300,
+    "1": 318
+   }
+  },
+  {
+   "id": "f_recruit_ring",
+   "pLife": 0.0507,
+   "perLife": 0.051,
+   "chosen": {
+    "0": 320,
+    "1": 288
+   }
+  },
+  {
+   "id": "th_sol_rain",
+   "pLife": 0.0325,
+   "perLife": 0.05,
+   "chosen": {
+    "0": 235,
+    "1": 236,
+    "ignore": 128
+   }
+  },
+  {
+   "id": "th_capo_soldato",
+   "pLife": 0.0274,
+   "perLife": 0.05,
+   "chosen": {
+    "0": 308,
+    "1": 292
+   }
+  },
+  {
+   "id": "f_recruit_thumb",
+   "pLife": 0.0499,
+   "perLife": 0.05,
+   "chosen": {
+    "0": 302,
+    "1": 297
+   }
+  },
+  {
+   "id": "ab_old_lady",
+   "pLife": 0.0489,
+   "perLife": 0.049,
+   "chosen": {
+    "0": 252,
+    "1": 208,
+    "ignore": 127
+   }
+  },
+  {
+   "id": "f_recruit_middle",
+   "pLife": 0.0493,
+   "perLife": 0.049,
+   "chosen": {
+    "0": 310,
+    "1": 281
+   }
+  },
+  {
+   "id": "ri_body_school",
+   "pLife": 0.035,
+   "perLife": 0.049,
+   "chosen": {
+    "0": 311,
+    "1": 278
+   }
+  },
+  {
+   "id": "wcl_promote",
+   "pLife": 0.0051,
+   "perLife": 0.049,
+   "chosen": {
+    "0": 486,
+    "ignore": 96
+   }
+  },
+  {
+   "id": "f_recruit_index",
+   "pLife": 0.0469,
+   "perLife": 0.047,
+   "chosen": {
+    "0": 280,
+    "1": 283
+   }
+  },
+  {
+   "id": "t_gang_invite",
+   "pLife": 0.0462,
+   "perLife": 0.046,
+   "chosen": {
+    "0": 184,
+    "1": 156,
+    "2": 215
+   }
+  },
+  {
+   "id": "c_stranger_bread",
+   "pLife": 0.0447,
+   "perLife": 0.045,
+   "chosen": {
+    "0": 205,
+    "1": 218,
+    "ignore": 113
+   }
+  },
+  {
+   "id": "ab_theresia",
+   "pLife": 0.0447,
+   "perLife": 0.045,
+   "chosen": {
+    "0": 194,
+    "1": 235,
+    "ignore": 107
+   }
+  },
+  {
+   "id": "j_drifter_letter",
+   "pLife": 0.0344,
+   "perLife": 0.044,
+   "chosen": {
+    "0": 207,
+    "1": 220,
+    "ignore": 100
+   }
+  },
+  {
+   "id": "a_gang_war",
+   "pLife": 0.0285,
+   "perLife": 0.044,
+   "chosen": {
+    "0": 139,
+    "1": 127,
+    "2": 139,
+    "3": 125,
+    "4": 4
+   }
+  },
+  {
+   "id": "ab_punishing_bird",
+   "pLife": 0.0441,
+   "perLife": 0.044,
+   "chosen": {
+    "0": 157,
+    "1": 116,
+    "2": 145,
+    "ignore": 111
+   }
+  },
+  {
+   "id": "ab_one_sin",
+   "pLife": 0.0443,
+   "perLife": 0.044,
+   "chosen": {
+    "0": 226,
+    "1": 207,
+    "ignore": 99
+   }
+  },
+  {
+   "id": "ff_fantasm_song",
+   "pLife": 0.0425,
+   "perLife": 0.043,
+   "chosen": {
+    "0": 181,
+    "1": 223,
+    "ignore": 106
+   }
+  },
+  {
+   "id": "mi_big_funeral",
+   "pLife": 0.0136,
+   "perLife": 0.043,
+   "chosen": {
+    "0": 258,
+    "1": 259
+   }
+  },
+  {
+   "id": "c_dirty_water",
+   "pLife": 0.0435,
+   "perLife": 0.043,
+   "chosen": {
+    "0": 304,
+    "1": 126,
+    "ignore": 92
+   }
+  },
+  {
+   "id": "ri_judge_resident",
+   "pLife": 0.0247,
+   "perLife": 0.042,
+   "chosen": {
+    "0": 171,
+    "1": 178,
+    "2": 156
+   }
+  },
+  {
+   "id": "a_career_outskirts",
+   "pLife": 0.0418,
+   "perLife": 0.042,
+   "chosen": {
+    "0": 323,
+    "1": 179
+   }
+  },
+  {
+   "id": "c_scavenge",
+   "pLife": 0.0403,
+   "perLife": 0.04,
+   "chosen": {
+    "0": 204,
+    "1": 191,
+    "ignore": 88
+   }
+  },
+  {
+   "id": "th_capo",
+   "pLife": 0.0311,
+   "perLife": 0.039,
+   "chosen": {
+    "0": 243,
+    "1": 229
+   }
+  },
+  {
+   "id": "ab_dont_touch",
+   "pLife": 0.0376,
+   "perLife": 0.038,
+   "chosen": {
+    "0": 160,
+    "1": 202,
+    "ignore": 89
+   }
+  },
+  {
+   "id": "t_thumb_errand",
+   "pLife": 0.0381,
+   "perLife": 0.038,
+   "chosen": {
+    "0": 171,
+    "1": 197,
+    "ignore": 89
+   }
+  },
+  {
+   "id": "ab_fairy_festival",
+   "pLife": 0.0382,
+   "perLife": 0.038,
+   "chosen": {
+    "0": 187,
+    "1": 179,
+    "ignore": 93
+   }
+  },
+  {
+   "id": "th_underboss",
+   "pLife": 0.0232,
+   "perLife": 0.037,
+   "chosen": {
+    "0": 220,
+    "1": 227
+   }
+  },
+  {
+   "id": "a_port_smuggle",
+   "pLife": 0.0372,
+   "perLife": 0.037,
+   "chosen": {
+    "0": 242,
+    "1": 205
+   }
+  },
+  {
+   "id": "c_thumb_parade_strong",
+   "pLife": 0.0373,
+   "perLife": 0.037,
+   "chosen": {
+    "0": 178,
+    "1": 181,
+    "ignore": 89
+   }
+  },
+  {
+   "id": "bf_fam_order",
+   "pLife": 0.0099,
+   "perLife": 0.037,
+   "chosen": {
+    "0": 356,
+    "1": 3,
+    "ignore": 80
+   }
+  },
+  {
+   "id": "c_outskirts_raid",
+   "pLife": 0.0356,
+   "perLife": 0.036,
+   "chosen": {
+    "0": 215,
+    "1": 212
+   }
+  },
+  {
+   "id": "c_farm_chores",
+   "pLife": 0.0358,
+   "perLife": 0.036,
+   "chosen": {
+    "0": 171,
+    "1": 163,
+    "ignore": 96
+   }
+  },
+  {
+   "id": "t_top_track",
+   "pLife": 0.0355,
+   "perLife": 0.035,
+   "chosen": {
+    "0": 203,
+    "1": 223
+   }
+  },
+  {
+   "id": "th_us_dispute",
+   "pLife": 0.0124,
+   "perLife": 0.035,
+   "chosen": {
+    "0": 132,
+    "1": 148,
+    "2": 146
+   }
+  },
+  {
+   "id": "c_hunger",
+   "pLife": 0.035,
+   "perLife": 0.035,
+   "chosen": {
+    "0": 186,
+    "1": 144,
+    "ignore": 90
+   }
+  },
+  {
+   "id": "bf_fam_ration",
+   "pLife": 0.0097,
+   "perLife": 0.035,
+   "chosen": {
+    "0": 312,
+    "1": 12,
+    "ignore": 95
+   }
+  },
+  {
+   "id": "ff_outskirts_shadow",
+   "pLife": 0.0237,
+   "perLife": 0.035,
+   "chosen": {
+    "0": 219,
+    "1": 204
+   }
+  },
+  {
+   "id": "a_fixer_offer",
+   "pLife": 0.0344,
+   "perLife": 0.034,
+   "chosen": {
+    "0": 218,
+    "1": 195
+   }
+  },
+  {
+   "id": "ab_spider_bud",
+   "pLife": 0.033,
+   "perLife": 0.033,
+   "chosen": {
+    "0": 159,
+    "1": 155,
+    "ignore": 82
+   }
+  },
+  {
+   "id": "th_us_capo_exam",
+   "pLife": 0.0123,
+   "perLife": 0.033,
+   "chosen": {
+    "0": 203,
+    "1": 198
+   }
+  },
+  {
+   "id": "t_middle_debt",
+   "pLife": 0.0333,
+   "perLife": 0.033,
+   "chosen": {
+    "0": 146,
+    "1": 168,
+    "ignore": 85
+   }
+  },
+  {
+   "id": "c_outskirts_caravan_kid",
+   "pLife": 0.0318,
+   "perLife": 0.032,
+   "chosen": {
+    "0": 153,
+    "1": 154,
+    "ignore": 74
+   }
+  },
+  {
+   "id": "t_crime_witness",
+   "pLife": 0.0319,
+   "perLife": 0.032,
+   "chosen": {
+    "0": 134,
+    "1": 128,
+    "2": 121
+   }
+  },
+  {
+   "id": "ff_fantasm_market",
+   "pLife": 0.0318,
+   "perLife": 0.032,
+   "chosen": {
+    "0": 115,
+    "1": 98,
+    "2": 123,
+    "3": 48
+   }
+  },
+  {
+   "id": "th_us_short",
+   "pLife": 0.0118,
+   "perLife": 0.031,
+   "chosen": {
+    "0": 103,
+    "1": 133,
+    "2": 137
+   }
+  },
+  {
+   "id": "t_index_note",
+   "pLife": 0.0312,
+   "perLife": 0.031,
+   "chosen": {
+    "0": 155,
+    "1": 148,
+    "ignore": 71
+   }
+  },
+  {
+   "id": "t_ring_sketch",
+   "pLife": 0.0311,
+   "perLife": 0.031,
+   "chosen": {
+    "0": 158,
+    "1": 143,
+    "ignore": 72
+   }
+  },
+  {
+   "id": "ri_cubism",
+   "pLife": 0.0235,
+   "perLife": 0.031,
+   "chosen": {
+    "0": 187,
+    "1": 182
+   }
+  },
+  {
+   "id": "a_career_top",
+   "pLife": 0.03,
+   "perLife": 0.03,
+   "chosen": {
+    "0": 95,
+    "1": 76,
+    "2": 189
+   }
+  },
+  {
+   "id": "ff_cleanup_job",
+   "pLife": 0.0296,
+   "perLife": 0.03,
+   "chosen": {
+    "0": 192,
+    "1": 173
+   }
+  },
+  {
+   "id": "ri_maestro",
+   "pLife": 0.0212,
+   "perLife": 0.03,
+   "chosen": {
+    "0": 189,
+    "1": 170
+   }
+  },
+  {
+   "id": "hs_suppress",
+   "pLife": 0.0053,
+   "perLife": 0.03,
+   "chosen": {
+    "0": 150,
+    "1": 139,
+    "ignore": 76
+   }
+  },
+  {
+   "id": "c_middle_bump_strong",
+   "pLife": 0.0287,
+   "perLife": 0.029,
+   "chosen": {
+    "0": 102,
+    "1": 109,
+    "2": 133
+   }
+  },
+  {
+   "id": "c_index_target_strong",
+   "pLife": 0.0288,
+   "perLife": 0.029,
+   "chosen": {
+    "0": 170,
+    "1": 176
+   }
+  },
+  {
+   "id": "og_assoc_scout",
+   "pLife": 0.0264,
+   "perLife": 0.029,
+   "chosen": {
+    "0": 171,
+    "1": 172
+   }
+  },
+  {
+   "id": "bf_fam_escort",
+   "pLife": 0.0094,
+   "perLife": 0.028,
+   "chosen": {
+    "0": 127,
+    "1": 145,
+    "ignore": 62
+   }
+  },
+  {
+   "id": "bf_bar_dealer",
+   "pLife": 0.0136,
+   "perLife": 0.027,
+   "chosen": {
+    "0": 136,
+    "1": 124,
+    "ignore": 60
+   }
+  },
+  {
+   "id": "t_eyes_notice",
+   "pLife": 0.0255,
+   "perLife": 0.025,
+   "chosen": {
+    "0": 138,
+    "1": 109,
+    "ignore": 59
+   }
+  },
+  {
+   "id": "bf_frenzy",
+   "pLife": 0.0104,
+   "perLife": 0.025,
+   "chosen": {
+    "0": 140,
+    "1": 166
+   }
+  },
+  {
+   "id": "ex_finger_pursuit",
+   "pLife": 0.0182,
+   "perLife": 0.024,
+   "chosen": {
+    "0": 149,
+    "1": 133
+   }
+  },
+  {
+   "id": "og_fullstop",
+   "pLife": 0.0177,
+   "perLife": 0.024,
+   "chosen": {
+    "0": 101,
+    "1": 119,
+    "ignore": 64
+   }
+  },
+  {
+   "id": "hs_mutation_night",
+   "pLife": 0.0053,
+   "perLife": 0.024,
+   "chosen": {
+    "0": 119,
+    "1": 119,
+    "ignore": 45
+   }
+  },
+  {
+   "id": "hs_banquet",
+   "pLife": 0.0052,
+   "perLife": 0.024,
+   "chosen": {
+    "0": 129,
+    "1": 103,
+    "ignore": 53
+   }
+  },
+  {
+   "id": "hs_burn",
+   "pLife": 0.0053,
+   "perLife": 0.024,
+   "chosen": {
+    "0": 101,
+    "1": 124,
+    "ignore": 65
+   }
+  },
+  {
+   "id": "mi_big_boss",
+   "pLife": 0.005,
+   "perLife": 0.023,
+   "chosen": {
+    "0": 105,
+    "1": 110,
+    "ignore": 56
+   }
+  },
+  {
+   "id": "hs_leash",
+   "pLife": 0.0052,
+   "perLife": 0.023,
+   "chosen": {
+    "0": 113,
+    "1": 112,
+    "ignore": 52
+   }
+  },
+  {
+   "id": "hs_hunt",
+   "pLife": 0.0053,
+   "perLife": 0.023,
+   "chosen": {
+    "0": 105,
+    "1": 120,
+    "ignore": 53
+   }
+  },
+  {
+   "id": "hs_traitor",
+   "pLife": 0.0053,
+   "perLife": 0.023,
+   "chosen": {
+    "0": 121,
+    "1": 102,
+    "ignore": 49
+   }
+  },
+  {
+   "id": "ff_imaginary_friend",
+   "pLife": 0.022,
+   "perLife": 0.022,
+   "chosen": {
+    "0": 120,
+    "1": 96,
+    "ignore": 48
+   }
+  },
+  {
+   "id": "in_green_wall",
+   "pLife": 0.0102,
+   "perLife": 0.022,
+   "chosen": {
+    "0": 135,
+    "1": 129
+   }
+  },
+  {
+   "id": "in_strange",
+   "pLife": 0.0102,
+   "perLife": 0.022,
+   "chosen": {
+    "0": 140,
+    "1": 129
+   }
+  },
+  {
+   "id": "ab_flesh_idol",
+   "pLife": 0.0218,
+   "perLife": 0.022,
+   "chosen": {
+    "0": 144,
+    "1": 118
+   }
+  },
+  {
+   "id": "ab_queen_hatred",
+   "pLife": 0.0222,
+   "perLife": 0.022,
+   "chosen": {
+    "0": 130,
+    "1": 136
+   }
+  },
+  {
+   "id": "mi_deferred_payoff",
+   "pLife": 0.0213,
+   "perLife": 0.021,
+   "chosen": {
+    "0": 122,
+    "1": 134
+   }
+  },
+  {
+   "id": "in_oracle_relay",
+   "pLife": 0.0105,
+   "perLife": 0.021,
+   "chosen": {
+    "0": 131,
+    "1": 126
+   }
+  },
+  {
+   "id": "c_top_party",
+   "pLife": 0.0208,
+   "perLife": 0.021,
+   "chosen": {
+    "0": 86,
+    "1": 88,
+    "2": 75
+   }
+  },
+  {
+   "id": "j_drifter_odd_job",
+   "pLife": 0.0208,
+   "perLife": 0.021,
+   "chosen": {
+    "0": 123,
+    "1": 135
+   }
+  },
+  {
+   "id": "ab_nothing_there",
+   "pLife": 0.0214,
+   "perLife": 0.021,
+   "chosen": {
+    "0": 91,
+    "1": 99,
+    "2": 67
+   }
+  },
+  {
+   "id": "wcl_identifier",
+   "pLife": 0.0052,
+   "perLife": 0.021,
+   "chosen": {
+    "0": 92,
+    "1": 104,
+    "ignore": 54
+   }
+  },
+  {
+   "id": "ab_scorched_girl",
+   "pLife": 0.0204,
+   "perLife": 0.02,
+   "chosen": {
+    "0": 64,
+    "1": 72,
+    "2": 95,
+    "3": 14
+   }
+  },
+  {
+   "id": "ab_knight_despair",
+   "pLife": 0.0198,
+   "perLife": 0.02,
+   "chosen": {
+    "0": 119,
+    "1": 119
+   }
+  },
+  {
+   "id": "tc_defaulter",
+   "pLife": 0.0053,
+   "perLife": 0.02,
+   "chosen": {
+    "0": 63,
+    "1": 72,
+    "2": 56,
+    "ignore": 49
+   }
+  },
+  {
+   "id": "tc_child_labor",
+   "pLife": 0.0053,
+   "perLife": 0.02,
+   "chosen": {
+    "0": 97,
+    "1": 91,
+    "ignore": 52
+   }
+  },
+  {
+   "id": "tc_embezzle",
+   "pLife": 0.0053,
+   "perLife": 0.02,
+   "chosen": {
+    "0": 60,
+    "1": 64,
+    "2": 70,
+    "ignore": 47
+   }
+  },
+  {
+   "id": "rc_guard_w",
+   "pLife": 0.0076,
+   "perLife": 0.019,
+   "chosen": {
+    "0": 99,
+    "1": 91,
+    "ignore": 41
+   }
+  },
+  {
+   "id": "rc_zone",
+   "pLife": 0.0073,
+   "perLife": 0.019,
+   "chosen": {
+    "0": 111,
+    "1": 121
+   }
+  },
+  {
+   "id": "mi_big_feud",
+   "pLife": 0.0049,
+   "perLife": 0.019,
+   "chosen": {
+    "0": 109,
+    "1": 118
+   }
+  },
+  {
+   "id": "wcl_quiet_car",
+   "pLife": 0.005,
+   "perLife": 0.019,
+   "chosen": {
+    "0": 97,
+    "1": 92,
+    "ignore": 39
+   }
+  },
+  {
+   "id": "in_oracle_doubt",
+   "pLife": 0.0089,
+   "perLife": 0.018,
+   "chosen": {
+    "0": 105,
+    "1": 116
+   }
+  },
+  {
+   "id": "c_port_crane",
+   "pLife": 0.0175,
+   "perLife": 0.018,
+   "chosen": {
+    "0": 81,
+    "1": 86,
+    "ignore": 43
+   }
+  },
+  {
+   "id": "rc_guard_t",
+   "pLife": 0.0073,
+   "perLife": 0.018,
+   "chosen": {
+    "0": 98,
+    "1": 83,
+    "ignore": 40
+   }
+  },
+  {
+   "id": "rc_drill",
+   "pLife": 0.0073,
+   "perLife": 0.018,
+   "chosen": {
+    "0": 83,
+    "1": 81,
+    "ignore": 49
+   }
+  },
+  {
+   "id": "og_office_collapse",
+   "pLife": 0.0175,
+   "perLife": 0.018,
+   "chosen": {
+    "0": 107,
+    "1": 106
+   }
+  },
+  {
+   "id": "wcl_blood_words",
+   "pLife": 0.0049,
+   "perLife": 0.018,
+   "chosen": {
+    "0": 84,
+    "1": 92,
+    "ignore": 43
+   }
+  },
+  {
+   "id": "wcl_dream",
+   "pLife": 0.0052,
+   "perLife": 0.018,
+   "chosen": {
+    "0": 80,
+    "1": 87,
+    "ignore": 48
+   }
+  },
+  {
+   "id": "tc_vdcu_raid",
+   "pLife": 0.0053,
+   "perLife": 0.018,
+   "chosen": {
+    "0": 78,
+    "1": 83,
+    "ignore": 50
+   }
+  },
+  {
+   "id": "t_outskirts_caravan",
+   "pLife": 0.0167,
+   "perLife": 0.017,
+   "chosen": {
+    "0": 97,
+    "1": 103
+   }
+  },
+  {
+   "id": "ab_red_shoes",
+   "pLife": 0.0173,
+   "perLife": 0.017,
+   "chosen": {
+    "0": 83,
+    "1": 75,
+    "ignore": 50
+   }
+  },
+  {
+   "id": "wn_cans",
+   "pLife": 0.0085,
+   "perLife": 0.017,
+   "chosen": {
+    "0": 104,
+    "1": 102
+   }
+  },
+  {
+   "id": "hs_guest",
+   "pLife": 0.0038,
+   "perLife": 0.017,
+   "chosen": {
+    "0": 83,
+    "1": 77,
+    "ignore": 38
+   }
+  },
+  {
+   "id": "j_worker_union",
+   "pLife": 0.0153,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 84,
+    "1": 103
+   }
+  },
+  {
+   "id": "mi_night",
+   "pLife": 0.014,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 107,
+    "1": 90
+   }
+  },
+  {
+   "id": "bf_outlive",
+   "pLife": 0.0096,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 91,
+    "1": 96
+   }
+  },
+  {
+   "id": "wf_fairy",
+   "pLife": 0.0084,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 96,
+    "1": 91
+   }
+  },
+  {
+   "id": "rc_supply",
+   "pLife": 0.0066,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 49,
+    "1": 47,
+    "2": 52,
+    "ignore": 44
+   }
+  },
+  {
+   "id": "ab_blue_star",
+   "pLife": 0.0162,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 69,
+    "1": 55,
+    "2": 70
+   }
+  },
+  {
+   "id": "wcl_forgot_charge",
+   "pLife": 0.0052,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 81,
+    "1": 76,
+    "ignore": 31
+   }
+  },
+  {
+   "id": "wcl_dinner",
+   "pLife": 0.0051,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 78,
+    "1": 81,
+    "ignore": 36
+   }
+  },
+  {
+   "id": "wk_hours",
+   "pLife": 0.0087,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 96,
+    "1": 95
+   }
+  },
+  {
+   "id": "tc_invention",
+   "pLife": 0.0053,
+   "perLife": 0.016,
+   "chosen": {
+    "0": 81,
+    "1": 84,
+    "ignore": 26
+   }
+  },
+  {
+   "id": "wu_package",
+   "pLife": 0.0077,
+   "perLife": 0.015,
+   "chosen": {
+    "0": 69,
+    "1": 79,
+    "ignore": 31
+   }
+  },
+  {
+   "id": "wg_gravity",
+   "pLife": 0.008,
+   "perLife": 0.015,
+   "chosen": {
+    "0": 82,
+    "1": 95
+   }
+  },
+  {
+   "id": "c_fantasm_sighting",
+   "pLife": 0.0152,
+   "perLife": 0.015,
+   "chosen": {
+    "0": 63,
+    "1": 55,
+    "2": 65
+   }
+  },
+  {
+   "id": "wcl_eyes",
+   "pLife": 0.0052,
+   "perLife": 0.015,
+   "chosen": {
+    "0": 58,
+    "1": 83,
+    "ignore": 44
+   }
+  },
+  {
+   "id": "hs_appoint",
+   "pLife": 0.005,
+   "perLife": 0.015,
+   "chosen": {
+    "0": 174
+   }
+  },
+  {
+   "id": "tc_yurodiviye",
+   "pLife": 0.0053,
+   "perLife": 0.015,
+   "chosen": {
+    "0": 79,
+    "1": 74,
+    "ignore": 31
+   }
+  },
+  {
+   "id": "a_fishing_storm",
+   "pLife": 0.0138,
+   "perLife": 0.014,
+   "chosen": {
+    "0": 77,
+    "1": 56,
+    "ignore": 33
+   }
+  },
+  {
+   "id": "wj_casino",
+   "pLife": 0.0082,
+   "perLife": 0.014,
+   "chosen": {
+    "0": 72,
+    "1": 95
+   }
+  },
+  {
+   "id": "wq_cloth",
+   "pLife": 0.0074,
+   "perLife": 0.014,
+   "chosen": {
+    "0": 83,
+    "1": 86
+   }
+  },
+  {
+   "id": "rc_abno_egg",
+   "pLife": 0.0067,
+   "perLife": 0.014,
+   "chosen": {
+    "0": 71,
+    "1": 59,
+    "ignore": 37
+   }
+  },
+  {
+   "id": "wp_nest",
+   "pLife": 0.0073,
+   "perLife": 0.014,
+   "chosen": {
+    "0": 79,
+    "1": 87
+   }
+  },
+  {
+   "id": "wcl_ad",
+   "pLife": 0.0051,
+   "perLife": 0.014,
+   "chosen": {
+    "0": 72,
+    "1": 74,
+    "ignore": 27
+   }
+  },
+  {
+   "id": "wcl_child_seat",
+   "pLife": 0.005,
+   "perLife": 0.014,
+   "chosen": {
+    "0": 53,
+    "1": 71,
+    "ignore": 40
+   }
+  },
+  {
+   "id": "ab_judgement_bird",
+   "pLife": 0.0127,
+   "perLife": 0.013,
+   "chosen": {
+    "0": 76,
+    "1": 76
+   }
+  },
+  {
+   "id": "ab_armor",
+   "pLife": 0.0131,
+   "perLife": 0.013,
+   "chosen": {
+    "0": 74,
+    "1": 83
+   }
+  },
+  {
+   "id": "a_plague_lockdown",
+   "pLife": 0.0125,
+   "perLife": 0.013,
+   "chosen": {
+    "0": 55,
+    "1": 49,
+    "2": 46
+   }
+  },
+  {
+   "id": "wk_purple",
+   "pLife": 0.008,
+   "perLife": 0.013,
+   "chosen": {
+    "0": 80,
+    "1": 74
+   }
+  },
+  {
+   "id": "tc_clocktower",
+   "pLife": 0.0053,
+   "perLife": 0.013,
+   "chosen": {
+    "0": 55,
+    "1": 64,
+    "ignore": 31
+   }
+  },
+  {
+   "id": "wm_moonstone",
+   "pLife": 0.0071,
+   "perLife": 0.013,
+   "chosen": {
+    "0": 79,
+    "1": 78
+   }
+  },
+  {
+   "id": "tc_join",
+   "pLife": 0.0083,
+   "perLife": 0.012,
+   "chosen": {
+    "0": 64,
+    "1": 78
+   }
+  },
+  {
+   "id": "rc_veteran",
+   "pLife": 0.0071,
+   "perLife": 0.012,
+   "chosen": {
+    "0": 54,
+    "1": 61,
+    "ignore": 34
+   }
+  },
+  {
+   "id": "wn_record",
+   "pLife": 0.0076,
+   "perLife": 0.012,
+   "chosen": {
+    "0": 80,
+    "1": 63
+   }
+  },
+  {
+   "id": "a_invitation",
+   "pLife": 0.0123,
+   "perLife": 0.012,
+   "chosen": {
+    "0": 64,
+    "1": 84
+   }
+  },
+  {
+   "id": "ff_odd_object_after",
+   "pLife": 0.0123,
+   "perLife": 0.012,
+   "chosen": {
+    "0": 71,
+    "1": 76
+   }
+  },
+  {
+   "id": "hs_join",
+   "pLife": 0.0088,
+   "perLife": 0.012,
+   "chosen": {
+    "0": 64,
+    "1": 85
+   }
+  },
+  {
+   "id": "wcl_how_long",
+   "pLife": 0.0049,
+   "perLife": 0.012,
+   "chosen": {
+    "0": 65,
+    "1": 57,
+    "ignore": 21
+   }
+  },
+  {
+   "id": "og_liu",
+   "pLife": 0.0095,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 60,
+    "1": 57,
+    "ignore": 20
+   }
+  },
+  {
+   "id": "wu_rule",
+   "pLife": 0.0071,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 63,
+    "1": 72
+   }
+  },
+  {
+   "id": "in_oracle",
+   "pLife": 0.0114,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 70,
+    "1": 67
+   }
+  },
+  {
+   "id": "og_cinq",
+   "pLife": 0.0093,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 58,
+    "1": 54,
+    "ignore": 22
+   }
+  },
+  {
+   "id": "a_fantasm_incident",
+   "pLife": 0.0111,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 34,
+    "1": 39,
+    "2": 24,
+    "3": 17,
+    "4": 20
+   }
+  },
+  {
+   "id": "bf_family_first",
+   "pLife": 0.0111,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 68,
+    "1": 65
+   }
+  },
+  {
+   "id": "og_oufi",
+   "pLife": 0.0096,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 49,
+    "1": 62,
+    "ignore": 27
+   }
+  },
+  {
+   "id": "ri_fail_twice",
+   "pLife": 0.0092,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 58,
+    "1": 69
+   }
+  },
+  {
+   "id": "tc_warp_escort",
+   "pLife": 0.0046,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 50,
+    "1": 57,
+    "ignore": 29
+   }
+  },
+  {
+   "id": "og_seven",
+   "pLife": 0.0083,
+   "perLife": 0.011,
+   "chosen": {
+    "0": 48,
+    "1": 55,
+    "ignore": 28
+   }
+  },
+  {
+   "id": "og_devyat",
+   "pLife": 0.0083,
+   "perLife": 0.01,
+   "chosen": {
+    "0": 51,
+    "1": 52,
+    "ignore": 16
+   }
+  },
+  {
+   "id": "og_zwei",
+   "pLife": 0.0086,
+   "perLife": 0.01,
+   "chosen": {
+    "0": 47,
+    "1": 44,
+    "ignore": 30
+   }
+  },
+  {
+   "id": "bf_rumor",
+   "pLife": 0.0078,
+   "perLife": 0.01,
+   "chosen": {
+    "0": 50,
+    "1": 47,
+    "ignore": 25
+   }
+  },
+  {
+   "id": "ab_teddy",
+   "pLife": 0.0103,
+   "perLife": 0.01,
+   "chosen": {
+    "0": 40,
+    "1": 58,
+    "ignore": 26
+   }
+  },
+  {
+   "id": "wcl_join",
+   "pLife": 0.0073,
+   "perLife": 0.01,
+   "chosen": {
+    "0": 62,
+    "1": 58
+   }
+  },
+  {
+   "id": "hs_new_lord",
+   "pLife": 0.0051,
+   "perLife": 0.01,
+   "chosen": {
+    "0": 46,
+    "1": 45,
+    "ignore": 24
+   }
+  },
+  {
+   "id": "wcl_discharge",
+   "pLife": 0.0043,
+   "perLife": 0.01,
+   "chosen": {
+    "0": 62,
+    "1": 45,
+    "ignore": 18
+   }
+  },
+  {
+   "id": "tc_runner",
+   "pLife": 0.0045,
+   "perLife": 0.01,
+   "chosen": {
+    "0": 46,
+    "1": 61,
+    "ignore": 15
+   }
+  },
+  {
+   "id": "th_index_war",
+   "pLife": 0.0086,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 49,
+    "1": 56
+   }
+  },
+  {
+   "id": "wh_pill",
+   "pLife": 0.0056,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 54,
+    "1": 50
+   }
+  },
+  {
+   "id": "ab_plague_doctor",
+   "pLife": 0.0088,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 51,
+    "1": 54
+   }
+  },
+  {
+   "id": "a_neon_trap",
+   "pLife": 0.0095,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 42,
+    "1": 50,
+    "ignore": 22
+   }
+  },
+  {
+   "id": "rc_abno_scorched",
+   "pLife": 0.0057,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 52,
+    "1": 60
+   }
+  },
+  {
+   "id": "rc_abno_spider",
+   "pLife": 0.006,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 56,
+    "1": 57
+   }
+  },
+  {
+   "id": "rc_raven_visit",
+   "pLife": 0.0057,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 51,
+    "1": 60
+   }
+  },
+  {
+   "id": "rc_rhino_suit",
+   "pLife": 0.0027,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 40,
+    "1": 45,
+    "ignore": 25
+   }
+  },
+  {
+   "id": "rc_abno_teddy",
+   "pLife": 0.0057,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 85,
+    "1": 25
+   }
+  },
+  {
+   "id": "rc_captain_named",
+   "pLife": 0.0047,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 114
+   }
+  },
+  {
+   "id": "wm_abyss",
+   "pLife": 0.0061,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 61,
+    "1": 47
+   }
+  },
+  {
+   "id": "og_shi",
+   "pLife": 0.0074,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 46,
+    "1": 42,
+    "ignore": 21
+   }
+  },
+  {
+   "id": "tc_visitor",
+   "pLife": 0.0049,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 43,
+    "1": 40,
+    "ignore": 20
+   }
+  },
+  {
+   "id": "tc_after",
+   "pLife": 0.005,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 43,
+    "1": 45,
+    "ignore": 21
+   }
+  },
+  {
+   "id": "wcl_kingdom",
+   "pLife": 0.0042,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 47,
+    "1": 42,
+    "ignore": 16
+   }
+  },
+  {
+   "id": "rc_enlist",
+   "pLife": 0.0071,
+   "perLife": 0.009,
+   "chosen": {
+    "0": 51,
+    "1": 62
+   }
+  },
+  {
+   "id": "wh_insurance",
+   "pLife": 0.0052,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 33,
+    "1": 41,
+    "ignore": 21
+   }
+  },
+  {
+   "id": "mi_payback_target",
+   "pLife": 0.0077,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 92
+   }
+  },
+  {
+   "id": "ex_middle_pursuit",
+   "pLife": 0.005,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 47,
+    "1": 47
+   }
+  },
+  {
+   "id": "th_godfather",
+   "pLife": 0.0063,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 59,
+    "1": 42
+   }
+  },
+  {
+   "id": "rc_hatch_open",
+   "pLife": 0.0083,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 26,
+    "1": 35,
+    "2": 39
+   }
+  },
+  {
+   "id": "rc_abno_punishing",
+   "pLife": 0.0053,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 42,
+    "1": 49
+   }
+  },
+  {
+   "id": "tc_color",
+   "pLife": 0.0048,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 42,
+    "1": 34,
+    "ignore": 21
+   }
+  },
+  {
+   "id": "bf_fam_feud",
+   "pLife": 0.0055,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 90,
+    "1": 2
+   }
+  },
+  {
+   "id": "wcl_fixers",
+   "pLife": 0.0039,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 37,
+    "1": 33,
+    "ignore": 28
+   }
+  },
+  {
+   "id": "tc_expo",
+   "pLife": 0.0047,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 39,
+    "1": 47,
+    "ignore": 14
+   }
+  },
+  {
+   "id": "rc_reindeer_migraine",
+   "pLife": 0.0027,
+   "perLife": 0.008,
+   "chosen": {
+    "0": 35,
+    "1": 35,
+    "ignore": 28
+   }
+  },
+  {
+   "id": "t_neon_job",
+   "pLife": 0.0073,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 37,
+    "1": 36,
+    "ignore": 15
+   }
+  },
+  {
+   "id": "bf_stray_meet",
+   "pLife": 0.005,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 30,
+    "1": 33,
+    "ignore": 18
+   }
+  },
+  {
+   "id": "bf_bar_shortage",
+   "pLife": 0.0047,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 24,
+    "1": 41,
+    "ignore": 15
+   }
+  },
+  {
+   "id": "rc_hatch_month",
+   "pLife": 0.0075,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 39,
+    "1": 14,
+    "2": 37
+   }
+  },
+  {
+   "id": "og_gaze",
+   "pLife": 0.0057,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 32,
+    "1": 38,
+    "ignore": 17
+   }
+  },
+  {
+   "id": "in_kill_thumb",
+   "pLife": 0.0067,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 48,
+    "1": 33
+   }
+  },
+  {
+   "id": "wt_tax",
+   "pLife": 0.005,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 40,
+    "1": 44
+   }
+  },
+  {
+   "id": "a_ego_cost",
+   "pLife": 0.0053,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 37,
+    "1": 45
+   }
+  },
+  {
+   "id": "wcl_rookie",
+   "pLife": 0.0042,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 29,
+    "1": 38,
+    "ignore": 12
+   }
+  },
+  {
+   "id": "tc_kingpin",
+   "pLife": 0.0038,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 33,
+    "1": 39,
+    "ignore": 15
+   }
+  },
+  {
+   "id": "ww_cleanup",
+   "pLife": 0.0047,
+   "perLife": 0.007,
+   "chosen": {
+    "0": 38,
+    "1": 45
+   }
+  },
+  {
+   "id": "bf_child_distort",
+   "pLife": 0.0056,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 28,
+    "1": 39
+   }
+  },
+  {
+   "id": "bf_rank_inspect",
+   "pLife": 0.0054,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 34,
+    "1": 24,
+    "ignore": 19
+   }
+  },
+  {
+   "id": "th_marry_up",
+   "pLife": 0.0057,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 35,
+    "1": 37
+   }
+  },
+  {
+   "id": "rc_hatch_pact",
+   "pLife": 0.0057,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 25,
+    "1": 20,
+    "2": 23
+   }
+  },
+  {
+   "id": "rc_rhino_hammer",
+   "pLife": 0.0027,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 29,
+    "1": 24,
+    "ignore": 15
+   }
+  },
+  {
+   "id": "rc_rhino_breach",
+   "pLife": 0.0027,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 40,
+    "1": 31
+   }
+  },
+  {
+   "id": "rc_rhino_walk",
+   "pLife": 0.0022,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 32,
+    "1": 26,
+    "ignore": 14
+   }
+  },
+  {
+   "id": "wt_enter_rcorp",
+   "pLife": 0.0061,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 54,
+    "1": 19
+   }
+  },
+  {
+   "id": "a_pmc_recruit",
+   "pLife": 0.0065,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 40,
+    "1": 38
+   }
+  },
+  {
+   "id": "hs_you_covert",
+   "pLife": 0.0013,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 26,
+    "1": 36,
+    "ignore": 13
+   }
+  },
+  {
+   "id": "hs_guest_you",
+   "pLife": 0.0013,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 28,
+    "1": 29,
+    "ignore": 15
+   }
+  },
+  {
+   "id": "hs_you_war",
+   "pLife": 0.0013,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 27,
+    "1": 36,
+    "ignore": 15
+   }
+  },
+  {
+   "id": "rc_reindeer_chorus",
+   "pLife": 0.0027,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 26,
+    "1": 42
+   }
+  },
+  {
+   "id": "rc_reindeer_night",
+   "pLife": 0.0025,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 39,
+    "1": 25,
+    "ignore": 8
+   }
+  },
+  {
+   "id": "rc_rabbit_fast",
+   "pLife": 0.0018,
+   "perLife": 0.006,
+   "chosen": {
+    "0": 39,
+    "1": 24,
+    "ignore": 11
+   }
+  },
+  {
+   "id": "bf_bar_fake",
+   "pLife": 0.0039,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 20,
+    "1": 26,
+    "ignore": 9
+   }
+  },
+  {
+   "id": "in_marry_up",
+   "pLife": 0.0048,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 26,
+    "1": 32
+   }
+  },
+  {
+   "id": "ri_marry",
+   "pLife": 0.0047,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 35,
+    "1": 22
+   }
+  },
+  {
+   "id": "wt_enter_wcorp",
+   "pLife": 0.005,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 47,
+    "1": 13
+   }
+  },
+  {
+   "id": "wt_enter_heishou",
+   "pLife": 0.0051,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 49,
+    "1": 12
+   }
+  },
+  {
+   "id": "in_marry",
+   "pLife": 0.005,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 38,
+    "1": 24
+   }
+  },
+  {
+   "id": "wt_enter_tcorp",
+   "pLife": 0.0053,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 55,
+    "1": 9
+   }
+  },
+  {
+   "id": "x_color",
+   "pLife": 0.0047,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 15,
+    "1": 29,
+    "ignore": 12
+   }
+  },
+  {
+   "id": "tc_inside",
+   "pLife": 0.0037,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 20,
+    "1": 27,
+    "ignore": 14
+   }
+  },
+  {
+   "id": "th_godfather_rule",
+   "pLife": 0.0015,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 37,
+    "1": 23
+   }
+  },
+  {
+   "id": "th_godfather_table",
+   "pLife": 0.0014,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 28,
+    "1": 24,
+    "ignore": 10
+   }
+  },
+  {
+   "id": "rc_reindeer_antler",
+   "pLife": 0.0024,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 26,
+    "1": 19,
+    "ignore": 15
+   }
+  },
+  {
+   "id": "ri_marry_down",
+   "pLife": 0.0045,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 32,
+    "1": 24
+   }
+  },
+  {
+   "id": "hs_wei_siege",
+   "pLife": 0.0012,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 22,
+    "1": 24,
+    "ignore": 9
+   }
+  },
+  {
+   "id": "hs_wu_vanguard",
+   "pLife": 0.0011,
+   "perLife": 0.005,
+   "chosen": {
+    "0": 17,
+    "1": 34,
+    "ignore": 7
+   }
+  },
+  {
+   "id": "bf_old_friend",
+   "pLife": 0.0045,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 20,
+    "1": 22,
+    "ignore": 12
+   }
+  },
+  {
+   "id": "bf_bar_price",
+   "pLife": 0.0033,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 12,
+    "1": 9,
+    "2": 14,
+    "ignore": 10
+   }
+  },
+  {
+   "id": "bf_hide_neighbor",
+   "pLife": 0.0031,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 16,
+    "1": 21,
+    "ignore": 8
+   }
+  },
+  {
+   "id": "og_dieci",
+   "pLife": 0.0039,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 14,
+    "1": 21,
+    "ignore": 14
+   }
+  },
+  {
+   "id": "rc_hatch_last",
+   "pLife": 0.0044,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 16,
+    "1": 20,
+    "2": 17
+   }
+  },
+  {
+   "id": "rc_rhino_rampage",
+   "pLife": 0.0017,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 29,
+    "1": 13
+   }
+  },
+  {
+   "id": "th_marry",
+   "pLife": 0.0043,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 28,
+    "1": 26
+   }
+  },
+  {
+   "id": "wcl_first",
+   "pLife": 0.0043,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 24,
+    "1": 17,
+    "ignore": 10
+   }
+  },
+  {
+   "id": "ri_marry_up",
+   "pLife": 0.0039,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 25,
+    "1": 22
+   }
+  },
+  {
+   "id": "hs_mao_ambush",
+   "pLife": 0.0008,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 17,
+    "1": 19,
+    "ignore": 8
+   }
+  },
+  {
+   "id": "hs_mao_chase",
+   "pLife": 0.0008,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 20,
+    "1": 17,
+    "ignore": 8
+   }
+  },
+  {
+   "id": "wt_invent",
+   "pLife": 0.0037,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 17,
+    "1": 32
+   }
+  },
+  {
+   "id": "warp:clear",
+   "pLife": 0.0036,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 43
+   }
+  },
+  {
+   "id": "tc_pickaxe",
+   "pLife": 0.0038,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 13,
+    "1": 21,
+    "ignore": 12
+   }
+  },
+  {
+   "id": "tc_erase",
+   "pLife": 0.0026,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 19,
+    "1": 14,
+    "ignore": 10
+   }
+  },
+  {
+   "id": "bf_bar_barber",
+   "pLife": 0.0037,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 13,
+    "1": 26,
+    "ignore": 5
+   }
+  },
+  {
+   "id": "rc_fixer_enlist",
+   "pLife": 0.0037,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 22,
+    "1": 23
+   }
+  },
+  {
+   "id": "th_gf_envoy",
+   "pLife": 0.0014,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 25,
+    "1": 29
+   }
+  },
+  {
+   "id": "th_gf_heir",
+   "pLife": 0.0015,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 19,
+    "1": 29
+   }
+  },
+  {
+   "id": "x_color_challenge",
+   "pLife": 0.0032,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 26,
+    "1": 24
+   }
+  },
+  {
+   "id": "tc_district_default",
+   "pLife": 0.0025,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 19,
+    "1": 23,
+    "ignore": 9
+   }
+  },
+  {
+   "id": "rc_rabbit_count",
+   "pLife": 0.0016,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 14,
+    "1": 27,
+    "ignore": 8
+   }
+  },
+  {
+   "id": "rc_overload_end",
+   "pLife": 0.0031,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 22,
+    "1": 21
+   }
+  },
+  {
+   "id": "rc_reindeer_whiteout",
+   "pLife": 0.002,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 14,
+    "1": 20,
+    "ignore": 16
+   }
+  },
+  {
+   "id": "bf_duty_finger",
+   "pLife": 0.0008,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 16,
+    "1": 18,
+    "ignore": 9
+   }
+  },
+  {
+   "id": "hs_wei_cold",
+   "pLife": 0.0012,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 14,
+    "1": 29,
+    "ignore": 7
+   }
+  },
+  {
+   "id": "rc_rabbit_offduty",
+   "pLife": 0.0014,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 18,
+    "1": 16,
+    "ignore": 8
+   }
+  },
+  {
+   "id": "rc_rabbit_roof",
+   "pLife": 0.0018,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 34,
+    "1": 19
+   }
+  },
+  {
+   "id": "rc_rabbit_record_time",
+   "pLife": 0.0017,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 11,
+    "1": 21,
+    "ignore": 10
+   }
+  },
+  {
+   "id": "rc_rabbit_record",
+   "pLife": 0.0015,
+   "perLife": 0.004,
+   "chosen": {
+    "0": 20,
+    "1": 14,
+    "ignore": 10
+   }
+  },
+  {
+   "id": "in_marry_down",
+   "pLife": 0.0026,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 17,
+    "1": 14
+   }
+  },
+  {
+   "id": "rc_hatch_end",
+   "pLife": 0.0028,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 34
+   }
+  },
+  {
+   "id": "rc_clone_morning",
+   "pLife": 0.0027,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 11,
+    "1": 13,
+    "ignore": 9
+   }
+  },
+  {
+   "id": "mi_marry",
+   "pLife": 0.0032,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 23,
+    "1": 16
+   }
+  },
+  {
+   "id": "mi_marry_up",
+   "pLife": 0.0028,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 15,
+    "1": 19
+   }
+  },
+  {
+   "id": "th_marry_down",
+   "pLife": 0.0026,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 14,
+    "1": 18
+   }
+  },
+  {
+   "id": "bf_clash",
+   "pLife": 0.0034,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 18,
+    "1": 23
+   }
+  },
+  {
+   "id": "bf_rank_low",
+   "pLife": 0.0022,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 12,
+    "1": 9,
+    "ignore": 11
+   }
+  },
+  {
+   "id": "bf_old_funeral",
+   "pLife": 0.0031,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 14,
+    "1": 23,
+    "ignore": 3
+   }
+  },
+  {
+   "id": "bf_endure_water",
+   "pLife": 0.0031,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 16,
+    "1": 15,
+    "ignore": 6
+   }
+  },
+  {
+   "id": "ab_apocalypse_bird",
+   "pLife": 0.0033,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 22,
+    "1": 18
+   }
+  },
+  {
+   "id": "mi_marry_down",
+   "pLife": 0.0027,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 15,
+    "1": 19
+   }
+  },
+  {
+   "id": "bf_kindred_dying",
+   "pLife": 0.0031,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 21,
+    "1": 18
+   }
+  },
+  {
+   "id": "rc_hatch_reindeer",
+   "pLife": 0.0026,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 11,
+    "1": 10,
+    "2": 10
+   }
+  },
+  {
+   "id": "tc_ripper",
+   "pLife": 0.0025,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 26,
+    "1": 14
+   }
+  },
+  {
+   "id": "hs_si_assassin",
+   "pLife": 0.0008,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 17,
+    "1": 14,
+    "ignore": 7
+   }
+  },
+  {
+   "id": "hs_si_shadow",
+   "pLife": 0.0008,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 10,
+    "1": 14,
+    "ignore": 12
+   }
+  },
+  {
+   "id": "hs_wu_leash",
+   "pLife": 0.0011,
+   "perLife": 0.003,
+   "chosen": {
+    "0": 10,
+    "1": 10,
+    "ignore": 11
+   }
+  },
+  {
+   "id": "rc_hatch_rhino",
+   "pLife": 0.0021,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 10,
+    "1": 5,
+    "2": 10
+   }
+  },
+  {
+   "id": "rc_retire",
+   "pLife": 0.0016,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 10,
+    "1": 9
+   }
+  },
+  {
+   "id": "og_oufi_clause",
+   "pLife": 0.002,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 13,
+    "1": 10,
+    "ignore": 5
+   }
+  },
+  {
+   "id": "bf_alley",
+   "pLife": 0.0018,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 10,
+    "1": 12
+   }
+  },
+  {
+   "id": "bf_old_name",
+   "pLife": 0.0016,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 10,
+    "1": 8,
+    "ignore": 3
+   }
+  },
+  {
+   "id": "bf_hide_rain",
+   "pLife": 0.0013,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 10,
+    "1": 5,
+    "ignore": 6
+   }
+  },
+  {
+   "id": "wcl_bloodbags",
+   "pLife": 0.0013,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 13,
+    "1": 13
+   }
+  },
+  {
+   "id": "ab_knight_despair_after",
+   "pLife": 0.0017,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 9,
+    "1": 11
+   }
+  },
+  {
+   "id": "rc_hatch_rabbit",
+   "pLife": 0.0022,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 11,
+    "1": 8,
+    "2": 8
+   }
+  },
+  {
+   "id": "rc_raven_warning",
+   "pLife": 0.0016,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 7,
+    "1": 12
+   }
+  },
+  {
+   "id": "x_color_ego",
+   "pLife": 0.0024,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 9,
+    "1": 11,
+    "ignore": 9
+   }
+  },
+  {
+   "id": "hs_adept_xianren",
+   "pLife": 0.0013,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 12,
+    "1": 9,
+    "ignore": 1
+   }
+  },
+  {
+   "id": "hs_adept_fail",
+   "pLife": 0.0012,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 9,
+    "1": 12,
+    "ignore": 3
+   }
+  },
+  {
+   "id": "hs_adept_elite",
+   "pLife": 0.0013,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 10,
+    "1": 15
+   }
+  },
+  {
+   "id": "bf_endure_week",
+   "pLife": 0.0021,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 12,
+    "1": 12,
+    "ignore": 2
+   }
+  },
+  {
+   "id": "j_corp_secret",
+   "pLife": 0.0023,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 14,
+    "1": 8,
+    "2": 6
+   }
+  },
+  {
+   "id": "wcl_distorted",
+   "pLife": 0.0011,
+   "perLife": 0.002,
+   "chosen": {
+    "0": 9,
+    "1": 10,
+    "ignore": 2
+   }
+  },
+  {
+   "id": "bf_rank_first",
+   "pLife": 0.0008,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 5,
+    "1": 6
+   }
+  },
+  {
+   "id": "og_marry_fang",
+   "pLife": 0.0009,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 7,
+    "1": 4
+   }
+  },
+  {
+   "id": "bf_child_scrape",
+   "pLife": 0.0005,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 3,
+    "ignore": 1
+   }
+  },
+  {
+   "id": "bf_child_pack",
+   "pLife": 0.0005,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 2,
+    "ignore": 2
+   }
+  },
+  {
+   "id": "bf_child_rain",
+   "pLife": 0.0006,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 1,
+    "ignore": 4
+   }
+  },
+  {
+   "id": "bf_spouse_quiet",
+   "pLife": 0.0012,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 9,
+    "1": 5
+   }
+  },
+  {
+   "id": "bf_old_child",
+   "pLife": 0.0008,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 5
+   }
+  },
+  {
+   "id": "bf_fam_mykin",
+   "pLife": 0.0006,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 4,
+    "ignore": 4
+   }
+  },
+  {
+   "id": "bf_hide_dinner",
+   "pLife": 0.0006,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 3,
+    "ignore": 2
+   }
+  },
+  {
+   "id": "wcl_colleague_drain",
+   "pLife": 0.0011,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 9,
+    "1": 3,
+    "ignore": 5
+   }
+  },
+  {
+   "id": "og_marry_dawn",
+   "pLife": 0.001,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 8
+   }
+  },
+  {
+   "id": "og_marry_molar",
+   "pLife": 0.0005,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 2
+   }
+  },
+  {
+   "id": "wcl_supply_gear",
+   "pLife": 0.001,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 7,
+    "ignore": 6
+   }
+  },
+  {
+   "id": "x_relic_fixer",
+   "pLife": 0.0008,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 7
+   }
+  },
+  {
+   "id": "x_outskirts_relic",
+   "pLife": 0.0008,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 2,
+    "2": 5
+   }
+  },
+  {
+   "id": "hs_adept_outsider",
+   "pLife": 0.0008,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 6
+   }
+  },
+  {
+   "id": "bf_hunter_trail",
+   "pLife": 0.0013,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 3,
+    "1": 7,
+    "ignore": 7
+   }
+  },
+  {
+   "id": "bf_hide_wound",
+   "pLife": 0.0006,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 4,
+    "ignore": 2
+   }
+  },
+  {
+   "id": "bf_mykin_hunger",
+   "pLife": 0.0007,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 4,
+    "ignore": 3
+   }
+  },
+  {
+   "id": "bf_mykin_quirk",
+   "pLife": 0.0005,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 5,
+    "1": 2
+   }
+  },
+  {
+   "id": "bf_spouse_refuse",
+   "pLife": 0.0009,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 9
+   }
+  },
+  {
+   "id": "bf_hunter_bounty",
+   "pLife": 0.0003,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 1,
+    "1": 4,
+    "ignore": 1
+   }
+  },
+  {
+   "id": "og_marry_office",
+   "pLife": 0.0007,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 6,
+    "1": 2
+   }
+  },
+  {
+   "id": "rc_captain_fail",
+   "pLife": 0.0005,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 3,
+    "ignore": 1
+   }
+  },
+  {
+   "id": "rc_captain_rotate",
+   "pLife": 0.0004,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 3,
+    "1": 5
+   }
+  },
+  {
+   "id": "rc_captain_hatchery",
+   "pLife": 0.0004,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 4,
+    "ignore": 1
+   }
+  },
+  {
+   "id": "rc_captain_review",
+   "pLife": 0.0007,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 5,
+    "ignore": 3
+   }
+  },
+  {
+   "id": "tc_audit",
+   "pLife": 0.0003,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 3,
+    "1": 1,
+    "ignore": 2
+   }
+  },
+  {
+   "id": "rc_abno_judgement",
+   "pLife": 0.0006,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 5,
+    "1": 4
+   }
+  },
+  {
+   "id": "x_relic_child",
+   "pLife": 0.0013,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 9,
+    "1": 6
+   }
+  },
+  {
+   "id": "og_marry_streetlight",
+   "pLife": 0.0005,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 2,
+    "1": 4
+   }
+  },
+  {
+   "id": "x_relic_finger",
+   "pLife": 0.0005,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 3,
+    "1": 1,
+    "2": 2
+   }
+  },
+  {
+   "id": "rc_abno_queen",
+   "pLife": 0.0004,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 3,
+    "1": 3
+   }
+  },
+  {
+   "id": "og_marry_fullstop",
+   "pLife": 0.0008,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 7,
+    "1": 3
+   }
+  },
+  {
+   "id": "og_marry_wedge",
+   "pLife": 0.0007,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 3,
+    "1": 5
+   }
+  },
+  {
+   "id": "og_marry_hook",
+   "pLife": 0.0005,
+   "perLife": 0.001,
+   "chosen": {
+    "0": 4,
+    "1": 2
+   }
+  },
+  {
+   "id": "bf_spouse_after_quiet",
+   "pLife": 0.0003,
+   "perLife": 0,
+   "chosen": {
+    "0": 1,
+    "1": 2
+   }
+  },
+  {
+   "id": "bf_mykin_death",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "1": 1
+   }
+  },
+  {
+   "id": "og_marry_hana",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "0": 1,
+    "1": 1
+   }
+  },
+  {
+   "id": "og_marry_cane",
+   "pLife": 0.0004,
+   "perLife": 0,
+   "chosen": {
+    "1": 5
+   }
+  },
+  {
+   "id": "bf_bar_gift",
+   "pLife": 0.0003,
+   "perLife": 0,
+   "chosen": {
+    "0": 2,
+    "1": 2
+   }
+  },
+  {
+   "id": "bf_spouse_after_gone",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "0": 2
+   }
+  },
+  {
+   "id": "rc_cmdr_named",
+   "pLife": 0.0003,
+   "perLife": 0,
+   "chosen": {
+    "0": 3
+   }
+  },
+  {
+   "id": "tc_sync",
+   "pLife": 0.0004,
+   "perLife": 0,
+   "chosen": {
+    "0": 4,
+    "1": 1
+   }
+  },
+  {
+   "id": "bf_hunter_duel",
+   "pLife": 0.0004,
+   "perLife": 0,
+   "chosen": {
+    "0": 3,
+    "1": 2
+   }
+  },
+  {
+   "id": "bf_child_distort_late",
+   "pLife": 0.0003,
+   "perLife": 0,
+   "chosen": {
+    "0": 4
+   }
+  },
+  {
+   "id": "bf_end_ages",
+   "pLife": 0.0003,
+   "perLife": 0,
+   "chosen": {
+    "2": 2,
+    "3": 1
+   }
+  },
+  {
+   "id": "tc_four_hours",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "0": 1,
+    "1": 1
+   }
+  },
+  {
+   "id": "rc_raven_dispose",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "1": 1
+   }
+  },
+  {
+   "id": "bf_spouse_after_refuse",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "0": 2
+   }
+  },
+  {
+   "id": "og_marry_oufi",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "2": 1
+   }
+  },
+  {
+   "id": "bf_bar_sideeffect",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "1": 2
+   }
+  },
+  {
+   "id": "og_marry_zwei",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "0": 1
+   }
+  },
+  {
+   "id": "og_marry_gaze",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "0": 1,
+    "1": 1
+   }
+  },
+  {
+   "id": "bf_bar_decade",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "1": 1
+   }
+  },
+  {
+   "id": "bf_stray_invite",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "1": 1
+   }
+  },
+  {
+   "id": "og_marry_liu",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "1": 2
+   }
+  },
+  {
+   "id": "wcl_underboss",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "1": 2
+   }
+  },
+  {
+   "id": "wcl_color_car",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "0": 1
+   }
+  },
+  {
+   "id": "wcl_command",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "ignore": 1
+   }
+  },
+  {
+   "id": "tc_vault",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "ignore": 2
+   }
+  },
+  {
+   "id": "og_marry_cinq",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "0": 1
+   }
+  },
+  {
+   "id": "og_marry_seven",
+   "pLife": 0.0002,
+   "perLife": 0,
+   "chosen": {
+    "1": 2
+   }
+  },
+  {
+   "id": "rc_cmdr_orders",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "0": 1,
+    "1": 3
+   }
+  },
+  {
+   "id": "rc_cmdr_judge",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "0": 2,
+    "1": 2,
+    "ignore": 1
+   }
+  },
+  {
+   "id": "rc_cmdr_raven_list",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "0": 1,
+    "ignore": 2
+   }
+  },
+  {
+   "id": "wcl_grade1",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "0": 1
+   }
+  },
+  {
+   "id": "og_marry_devyat",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "1": 1
+   }
+  },
+  {
+   "id": "og_marry_shi",
+   "pLife": 0.0001,
+   "perLife": 0,
+   "chosen": {
+    "1": 1
+   }
+  }
+ ],
+ "yearlyHazard": [
+  {
+   "id": "A",
+   "name": "A사",
+   "age0": 0.0019,
+   "age5": 0.0004,
+   "age20": 0.0011,
+   "age40": 0.0011,
+   "age60": 0.0011,
+   "age80": 0.0014,
+   "age100": 0.0028
+  },
+  {
+   "id": "B",
+   "name": "B사",
+   "age0": 0.0019,
+   "age5": 0.0004,
+   "age20": 0.0011,
+   "age40": 0.0011,
+   "age60": 0.0011,
+   "age80": 0.0014,
+   "age100": 0.0028
+  },
+  {
+   "id": "C",
+   "name": "C사",
+   "age0": 0.0019,
+   "age5": 0.0004,
+   "age20": 0.001,
+   "age40": 0.001,
+   "age60": 0.0011,
+   "age80": 0.0013,
+   "age100": 0.0028
+  },
+  {
+   "id": "D",
+   "name": "D사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "E",
+   "name": "E사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "F",
+   "name": "F사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "G",
+   "name": "G사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "H",
+   "name": "H사",
+   "age0": 0.0019,
+   "age5": 0.001,
+   "age20": 0.0019,
+   "age40": 0.0019,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0038
+  },
+  {
+   "id": "I",
+   "name": "I사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "J",
+   "name": "J사",
+   "age0": 0.0087,
+   "age5": 0.0017,
+   "age20": 0.0025,
+   "age40": 0.0026,
+   "age60": 0.0026,
+   "age80": 0.003,
+   "age100": 0.0048
+  },
+  {
+   "id": "K",
+   "name": "K사",
+   "age0": 0.0019,
+   "age5": 0.001,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0038
+  },
+  {
+   "id": "M",
+   "name": "M사",
+   "age0": 0.0019,
+   "age5": 0.001,
+   "age20": 0.0019,
+   "age40": 0.0019,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0038
+  },
+  {
+   "id": "N",
+   "name": "N사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0019,
+   "age40": 0.0019,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.004
+  },
+  {
+   "id": "O",
+   "name": "O사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "P",
+   "name": "P사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "Q",
+   "name": "Q사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "R",
+   "name": "R사",
+   "age0": 0.0087,
+   "age5": 0.0015,
+   "age20": 0.0021,
+   "age40": 0.0022,
+   "age60": 0.0022,
+   "age80": 0.0025,
+   "age100": 0.0042
+  },
+  {
+   "id": "S",
+   "name": "S사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "T",
+   "name": "T사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "U",
+   "name": "U사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0019,
+   "age40": 0.0019,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.004
+  },
+  {
+   "id": "V",
+   "name": "V사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "W",
+   "name": "W사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0019,
+   "age40": 0.0019,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.004
+  },
+  {
+   "id": "X",
+   "name": "X사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "Y",
+   "name": "Y사",
+   "age0": 0.0087,
+   "age5": 0.0013,
+   "age20": 0.0018,
+   "age40": 0.0018,
+   "age60": 0.0019,
+   "age80": 0.0022,
+   "age100": 0.0039
+  },
+  {
+   "id": "outskirts",
+   "name": "외곽",
+   "age0": 0.0582,
+   "age5": 0.005,
+   "age20": 0.0035,
+   "age40": 0.0035,
+   "age60": 0.0036,
+   "age80": 0.004,
+   "age100": 0.0063
+  }
+ ],
+ "causeWeights": {
+  "age2": {
+   "영유아 질병": 9.2,
+   "영양 결핍": 0,
+   "오염": 0.8,
+   "환상체 사고": 0.49999999999999994,
+   "사고": 1.2,
+   "뒤틀림": 0,
+   "약물": 0
+  },
+  "age15": {
+   "질병": 3.2,
+   "사고": 3,
+   "범죄·항쟁": 2.3099999999999996,
+   "환상체 사고": 1.3999999999999997,
+   "오염": 0.6400000000000001,
+   "영양 결핍": 0,
+   "약물": 0,
+   "뒤틀림": 0
+  },
+  "age30": {
+   "질병": 4.2,
+   "사고": 2.5,
+   "범죄·항쟁": 4.29,
+   "환상체 사고": 1.9999999999999998,
+   "오염": 0.96,
+   "약물": 0,
+   "뒤틀림": 0.3,
+   "영양 결핍": 0
+  },
+  "age50": {
+   "질병": 4.2,
+   "사고": 2.5,
+   "범죄·항쟁": 4.29,
+   "환상체 사고": 1.9999999999999998,
+   "오염": 0.96,
+   "약물": 0,
+   "뒤틀림": 0.3,
+   "영양 결핍": 0,
+   "노화": 1.5
+  },
+  "age70": {
+   "노화": 16,
+   "질병": 4.2,
+   "사고": 0.8,
+   "범죄·항쟁": 0.6435,
+   "환상체 사고": 0.29999999999999993,
+   "오염": 0.48,
+   "뒤틀림": 0.2,
+   "약물": 0,
+   "영양 결핍": 0
+  }
+ }
+}

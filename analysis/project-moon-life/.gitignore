@@ -1,0 +1,5 @@
+# downloaded game bundle and the Node harness built from it are not committed (third-party code)
+site/
+harness.mjs
+samples_merged.json
+collect_*.json
